@@ -1,0 +1,6 @@
+---
+title: "Next Generation Science Standards"
+subtitle: "NGSS"
+---
+
+The NGSS will go here.

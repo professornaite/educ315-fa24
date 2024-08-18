@@ -15,10 +15,10 @@ website:
   page-footer:
     right: "This page was built by Nathan Alexander, PhD in [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2024, Nathan Alexander"
-    background: "#D9E3E4"
+    background: "#ccb6b1"
    
   sidebar:
-    background: "#D9E3E4"
+    background: "#ccb6b1"
     logo: "img/gladys-west.png"
     pinned: true
     align: center
@@ -38,12 +38,14 @@ website:
       contents:
         - href: index.qmd
           text: Course landing page
+        - href: who.qmd
+          text: Who is in the site photo?
         - href: course-overview.qmd
           text: Overview
+        - href: modules.qmd
+          text: Modules
         - href: assignments.qmd
           text: Assignments
-        - href: schedule.qmd
-          text: Schedule
     - section: "Modules"
       contents:
         - href: module01.qmd
@@ -70,39 +72,39 @@ website:
           text: Module 11
         - href: module12.qmd
           text: Module 12
-        - section: "Standards and Curricula"
-          contents: 
-            - href: standards/ngss.qmd
-              text: Next Generation Science Standards (NGSS)
-            - href: standards/nctm.qmd
-              text: National Council of Teachers of Mathematics (NCTM)
-            - href: standards/osse.qmd
-              text: Office of the State Superintendent of Education (OSSE)
-            - href: standards/umoja.qmd
-              text: Umoja Curriculum
-            - href: standards/freedom.qmd
-              text: Freedom School Curriculum
-        - section: "HW"
-          contents:
-            - href: hw/hw1.qmd
-              text: HW 1
-            - href: hw/hw2.qmd
-              text: HW 2
-            - href: hw/hw3.qmd
-              text: HW 3
-            - href: hw/hw4.qmd
-              text: HW 4
+    - section: "Standards and Curricula"
+      contents: 
+        - href: standards/ngss.qmd
+          text: Next Generation Science Standards (NGSS)
+        - href: standards/nctm.qmd
+          text: National Council of Teachers of Mathematics (NCTM)
+        - href: standards/osse.qmd
+          text: Office of the State Superintendent of Education (OSSE)
+        - href: standards/umoja.qmd
+          text: Umoja Curriculum
+        - href: standards/freedom.qmd
+          text: Freedom School Curriculum
+    - section: "Problem Sets"
+      contents:
+        - href: sets/set0.qmd
+          text: Set 0
+        - href: sets/set1.qmd
+          text: Set 1
+        - href: sets/set2.qmd
+          text: Set 2
+        - href: sets/set3.qmd
+          text: Set 3
         - href: solutions.qmd
           text: "Solutions"
 
 format:
   html:
-    theme: 
-      light: [cosmo, style/data202.scss]
-      dark: [cosmo, style/data202.scss, style/theme-dark.scss]
+    theme:
+      light: [spacelab, style/data202.scss]
+      dark: [spacelab, style/data202.scss, style/theme-dark.scss]
     mainfont: "Atkinson Hyperlegible"
     callout-appearance: simple
-    colorlinnks: true
+    colorlinnks: false
     code-copy: true
     code-overflow: wrap
     toc: true

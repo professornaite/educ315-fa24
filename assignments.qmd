@@ -1,6 +1,6 @@
 ---
 title: "Assignments"
-subtitle: "DATA 202: Statistically Measuring and Modeling Social Justice"
+subtitle: "Principles of Teaching Math and Science in Urban Classrooms II (Grades 4-6)"
 ---
 
 This page contains three sections:
