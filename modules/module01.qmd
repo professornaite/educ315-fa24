@@ -28,6 +28,14 @@ format:
 
 Logic refers to the principles of reasoning, especially correct reasoning. It's the systematic method of coming to conclusions through rational thought. In mathematics, logic involves the formal principles of reasoning and inference used to derive valid conclusions.
 
+### Reasoning
+
+-   **Deductive reasoning**: Deductive reasoning is a logical process that involves drawing specific conclusions from general premises or principles that are assumed to be true. This form of reasoning is often described as a "top-down" approach, where one starts with a general statement and applies it to a specific case. In mathematics, deductive reasoning involves using established rules, facts, and theorems to draw specific conclusions. It moves from general principles to specific instances.
+
+-   **Inductive reasoning**: Inductive reasoning is a logical process that involves drawing general conclusions from specific observations or instances. This method is often referred to as "bottom-up" reasoning, contrasting with deductive reasoning, which moves from general principles to specific conclusions. In mathematics, inductive reasoning involves observing patterns or specific instances to form general conclusions or hypotheses.
+
+-   Using if-then statements
+
 ## Quantity
 
 Quantity relates to the amount or number of something that can be measured or counted. In mathematics, it deals with concepts like magnitude, size, or amount that can be expressed numerically.
@@ -48,7 +56,7 @@ Change in mathematics deals with how quantities or properties vary or transform 
 
 ## Zero
 
-### Formal Definition 
+### Formal Definition
 
 Zero is a number that represents the absence of quantity or magnitude. It is the integer between the set of all negative integers and all positive integers.
 
@@ -70,11 +78,9 @@ The role of zero in mathematics (e.g., additive identity).
 
 Historical developments of the concept of zero:
 
-  - Dividing a number by zero, $\dfrac{x}{0} = \text{undefined}$ for some number $x \neq 0$
-  
-  - Dividing zero by zero, $\dfrac{x}{0} = \text{undefined}$ for some number $x = 0$.
-  
-  
+-   Dividing a number by zero, $\dfrac{x}{0} = \text{undefined}$ for some number $x \neq 0$
+
+-   Dividing zero by zero, $\dfrac{x}{0} = \text{undefined}$ for some number $x = 0$.
 
 ## Infinity
 
@@ -85,7 +91,7 @@ Infinity is a concept describing something without any limit, and is larger than
 ### Examples
 
 The number line: You can always add 1 to any number, no matter how large, so the number line extends infinitely.
-    
+
 Fractional division: 1 divided by 3 results in a repeating decimal (0.333...) that goes on infinitely.
 
 ### Key Points
@@ -96,20 +102,12 @@ The concept of infinity in mathematics vs. everyday life
 
 Paradoxes involving infinity (e.g., Hilbert's Hotel)
 
-# Activities 
 
-Hands-on activities to demonstrate the concepts of zero and infinity
-
-Problem-solving exercises involving zero and infinity
-
-Discussion questions to deepen understanding
-    
 # Exercises
 
-1. Who is George Polya? What is Polya's Four-Step Process applied to problem solving?
+1.  Who is George Polya? What is Polya's Four-Step Process applied to problem solving?
 
-2. 
+2.  How would you introduce the concept of zero to a 5th grader who has had issues understanding concepts before?
 
-
-
+3.  How would you extend the concept of infinity for a 5th grader who has an exceptional understanding of mathemtics?
 
