@@ -1,25 +1,23 @@
 ---
 title: "Welcome to **EDUC 315**"
-subtitle: "Principles of Teaching Math and Science in Urban Classrooms II (Grades 4-6)"
+subtitle: "Principles of Teaching Math and Science in Urban Classrooms II"
 ---
 
-The pages on this site outline the technical components of **EDUC 315: Principles of Teaching Math and Science in Urban Classrooms II** at Howard University, taught by [Professor Nathan Alexander](https://professornaite.github.io){target="_blank"}. 
-
-The information on this page will serve as a technical <u>*companion*</u> to our Canvas site [here](https://canvas.howard.edu/courses/53402){target="_blank"}.
-
-This site will support you with problem sets, technical aspects of pedagogical questions relevant to teaching STEM in grades 4-6, and your use of a pedagogical praxis in your classroom.
-
-Click [here](modules.html){target="_blank"} for course module details.
+The pages on this site outline the technical components of **EDUC 315: Principles of Teaching Math and Science in Urban Classrooms II** at Howard University, taught by [Professor Nathan Alexander](https://professornaite.github.io){target="_blank"}. This site will serve as a <u>*companion*</u> to our [Canvas site](https://canvas.howard.edu/courses/53402){target="_blank"} and support you with questions relevant to teaching STEM in grades 4-6 and your development of a pedagogical praxis for your future classroom.
 
 ::: column-screen-inset-right
-|       Week  | Day | Module  | Topic | Problem set due |          Assignment due    |
-|:------:|:------:|----------|----------|--------|--------|
-|  1  | Mon, Aug 19 | [](module00.html) | [Introduction to the course](week01-slides.html) |  | |
-|    | Wed, Aug 21 | [1a](module01a.html) | [Number sets: $\mathbb{N}$, $\mathbb{N_0}$](week01-slides.html/#15) | [Set 0](assignments/set0.html) | [Lesson sign-up](link.to.google.doc) |
-|  2  | Mon, Aug 26 | [1b](module01b.html) | [Number sets: $\mathbb{Z}$, $\mathbb{Z^{-/+}}$](week02-slides.html) |  | |
-|    | Wed, Aug 28 | [1c](module01c.html) | [Number sets: $\mathbb{Q}$](week02-slides.html/#15) | [Set 1](assignments/set1.html) | [Lesson sign-up](link.to.google.doc) |
-|  3  | Mon, Aug 26 | [1d](module01d.html) | [Number sets: Irrational numbers](week02-slides.html) |  | |
-|    | Wed, Aug 28 | [1e](module01e.html) | [Number sets: $\mathbb{R}$](week02-slides.html/#15) | [Set 2](assignments/set1.html) | [Lesson sign-up](link.to.google.doc) |
-|  4  | Mon, Aug 26 | [2a](module02a.html) | [Basic concepts: Zero, 0](week02-slides.html) |  | |
-|    | Wed, Aug 28 | [2b](module02b.html) | [Basic concepts: Infinity, $\infty$](week02-slides.html/#15) | [Set 3](assignments/set1.html) | [Lesson sign-up](link.to.google.doc) |
+|       Week  | Day | Module  | Topic | Assignment | Assessment |
+|:------:|:------:|----------|----------|-----|--------|
+|  1  | Mon, Aug 19 | [1](module01.html) | [Logic and concepts: Zero, 0](week01-slides.html) |  | |
+|    | Wed, Aug 21 | [1](module01.html) | [Logic and concepts: Infinity, $\infty$](week01-slides.html/#15) | []() | []() |
+|  2  | Mon, Aug 26 | [1b](module01b.html) | [Number sets: $\mathbb{N}$, $\mathbb{N_0}$, $\mathbb{Z}$](week02-slides.html) |  | |
+|    | Wed, Aug 28 | [1c](module01c.html) | [Number sets: $\mathbb{Q}$; teaching fractions](week02-slides.html/#15) | []() | [Quiz 1](link.to.quiz.topics) |
+|  3  | Mon, Aug 26 | [1d](module01d.html) | [Number sets: Irrational numbers; $\mathbb{R}$](week02-slides.html) |  | |
+|    | Wed, Aug 28 | [1e](module01e.html) | [Teaching numbers](week02-slides.html/#15) | []() | []() |
+|  4  | Mon, Aug 26 | [2a](module02a.html) | [Operations: Sum](week02-slides.html) |  | |
+|    | Wed, Aug 28 | [2b](module02b.html) | [Operations: Difference](week02-slides.html/#15) | [Activity 1 (Numbers)](assignments/set1.html) | [Quiz 2](link.to.google.doc) |
+|  5  | Mon, Aug 26 | [1d](module01d.html) | [Operations: Product](week02-slides.html) |  | |
+|    | Wed, Aug 28 | [1e](module01e.html) | [Operations: Quotient, part 1](week02-slides.html/#15) | []() | []() |
+|  6  | Mon, Aug 26 | [2a](module02a.html) | [Operations: Quotient, part 2](week02-slides.html) |  | |
+|    | Wed, Aug 28 | [2b](module02b.html) | [Teaching operations](week02-slides.html/#15) | [Activity 1](assignments/set1.html) | [Quiz 2](link.to.google.doc) |
 :::

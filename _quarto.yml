@@ -24,7 +24,7 @@ website:
     align: center
     tools: 
       - icon: github
-        href: https://github.com/professornaite/educ315-fa24/
+        href: https://professornaite.github.io/educ315-fa24/
         text: "GitHub organization"
       - icon: code-square
         href: https://canvas.howard.edu/courses/53402
@@ -42,8 +42,6 @@ website:
           text: Who is in the site photo?
         - href: course-overview.qmd
           text: Overview
-        - href: modules.qmd
-          text: Modules
         - href: assignments.qmd
           text: Assignments
     - section: "Modules"
@@ -72,30 +70,32 @@ website:
           text: Module 11
         - href: module12.qmd
           text: Module 12
-    - section: "Standards and Curricula"
+    - section: "Standards and curricula"
       contents: 
-        - href: standards/ngss.qmd
-          text: Next Generation Science Standards (NGSS)
-        - href: standards/nctm.qmd
-          text: National Council of Teachers of Mathematics (NCTM)
         - href: standards/osse.qmd
           text: Office of the State Superintendent of Education (OSSE)
+        - href: standards/common.qmd
+          text: Common Core State Standards - Mathematics
         - href: standards/umoja.qmd
           text: Umoja Curriculum
         - href: standards/freedom.qmd
           text: Freedom School Curriculum
-    - section: "Problem Sets"
+    - section: "Quiz topics"
       contents:
-        - href: sets/set0.qmd
-          text: Set 0
-        - href: sets/set1.qmd
-          text: Set 1
-        - href: sets/set2.qmd
-          text: Set 2
-        - href: sets/set3.qmd
-          text: Set 3
-        - href: solutions.qmd
-          text: "Solutions"
+        - href: quiz/quiz01.qmd
+          text: Quiz 1 topics
+        - href: quiz/quiz02.qmd
+          text: Quiz 2 topics
+        - href: quiz/quiz03.qmd
+          text: Quiz 3 topics
+        - href: quiz/quiz04.qmd
+          text: Quiz 4 topics
+        - href: quiz/quiz05.qmd
+          text: Quiz 5 topics
+        - href: quiz/quiz06.qmd
+          text: Quiz 6 topics
+        - href: quiz/quiz07.qmd
+          text: Quiz 7 topics
 
 format:
   html:
@@ -104,7 +104,7 @@ format:
       dark: [spacelab, style/data202.scss, style/theme-dark.scss]
     mainfont: "Atkinson Hyperlegible"
     callout-appearance: simple
-    colorlinnks: false
+    colorlinnks: true
     code-copy: true
     code-overflow: wrap
     toc: true
