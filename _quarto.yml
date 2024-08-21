@@ -46,7 +46,7 @@ website:
           text: Assignments
     - section: "Modules"
       contents:
-        - href: module/module01.qmd
+        - href: modules/module01.qmd
           text: Module 1
         - href: module02.qmd
           text: Module 2
