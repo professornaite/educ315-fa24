@@ -179,7 +179,21 @@
     "href": "modules/module02-slides.html#numbers",
     "title": "Module 2: Numbers and sets",
     "section": "Numbers",
-    "text": "Numbers\nThe sets of numbers form a hierarchy:\n\nNatural numbers (ℕ): Positive integers used for counting.\nWhole numbers (ℕ0): Natural numbers plus zero.\nIntegers (ℤ): Positive and negative whole numbers.\nRational numbers (ℚ): Numbers that can be expressed as fractions.\nIrrational numbers: Numbers that cannot be expressed as fractions (e.g., π, √2).\nReal numbers (ℝ): The union of rational and irrational numbers.\nComplex numbers (ℂ): Numbers with a real and imaginary part."
+    "text": "Numbers\nThe sets of numbers form a hierarchy:\n\nNatural numbers (ℕ): Positive integers used for counting.\nWhole numbers (ℕ0): Natural numbers plus zero.\nIntegers (ℤ): Positive and negative whole numbers.\nRational numbers (ℚ): Numbers that can be expressed as fractions.\nIrrational numbers: Numbers that cannot be expressed as fractions (e.g., π, √2).\nReal numbers (ℝ): The union of rational and irrational numbers.\nComplex numbers (ℂ): Numbers with a real and imaginary part.\n\nNatural numbers\n\nDefinition: Positive integers used for counting (1, 2, 3, …)\nAlso called counting numbers\nDenoted by N or ℕ Smallest natural number: 1\nNo largest natural number (infinite set)\n\nWhole numbers\n\nDefinition: Natural numbers plus zero (0, 1, 2, 3, …)\nIncludes all non-negative integers\n\nKey differences\n\nNatural numbers start at 1, whole numbers start at 0\nWhole numbers are a superset of natural numbers"
+  },
+  {
+    "objectID": "modules/module02-slides.html#teaching-sets",
+    "href": "modules/module02-slides.html#teaching-sets",
+    "title": "Module 2: Numbers and sets",
+    "section": "Teaching Sets",
+    "text": "Teaching Sets\n\nIntroduce the concept of a set as a collection of distinct objects\nStart with concrete, familiar examples (e.g., set of fruits, set of colors)\n\nBasic Set Concepts\n\nTeach set notation: { } for listing elements, ∈ for “is an element of”\nExplain finite and infinite sets\nIntroduce the empty set (∅ or { })\n\nSet Relationships and Operations\n\nTeach subset (⊆) and proper subset (⊂) relationships\nIntroduce set operations: union (∪), intersection (∩), difference (-)\nUse Venn diagrams to visually represent set relationships\n\nProgression\n\nBegin with simple, countable sets\nMove to more abstract sets (e.g., even numbers, prime numbers)\nIntroduce set operations and relationships\nConnect sets to other mathematical concepts (e.g., number systems, probability)\n\nTeaching Strategies\n\nUse manipulatives for hands-on exploration of sets\nEmploy visual aids like Venn diagrams and Carroll diagrams\nEncourage students to create their own sets and classify objects\nIntegrate set theory into problem-solving activities\n\nReal-world Applications\n\nDiscuss how sets are used in databases and computer science\nExplore set applications in logic and reasoning\nShow how sets relate to grouping and categorization in everyday life\n\nCommon Misconceptions\n\nAddress the difference between a set and its elements\nClarify that order doesn’t matter in sets (unlike in sequences)\nExplain that repeated elements are counted only once in a set"
+  },
+  {
+    "objectID": "modules/module02-slides.html#teaching-numbers",
+    "href": "modules/module02-slides.html#teaching-numbers",
+    "title": "Module 2: Numbers and sets",
+    "section": "Teaching Numbers",
+    "text": "Teaching Numbers\n\nStart with natural numbers (1, 2, 3, …) for counting and basic operations\nIntroduce whole numbers, including zero\nEmphasize place value concepts and number relationships\n\nTeaching Fractions\n\nBegin with concrete models and visual representations\nUse fraction walls and number lines to demonstrate equivalence\nIntroduce proper fractions before improper fractions and mixed numbers\nFocus on conceptual understanding before moving to procedures\n\nTeaching Decimals\n\nConnect decimals to fractions, especially tenths and hundredths\nUse place value language (e.g., “two-tenths and four-hundredths” for 0.24)\nEmploy visual models like decimal grids and number lines\n\nConnecting Fractions and Decimals\n\nExplicitly show the relationship between fractions and decimals\nUse double number lines to compare fractions and decimals\nDemonstrate conversion between fractions and decimals\n\nKey Teaching Strategies\n\nUse manipulatives and visual models extensively\nEncourage students to make connections between concepts\nProvide ample opportunities for practice and discussion\nAddress common misconceptions (e.g., longer decimal doesn’t always mean larger number)\nIntegrate real-world applications and problem-solving\n\nProgression\n\nTeach fractions before decimals to build a strong conceptual foundation\nIntroduce decimals as an extension of the place value system\nShow how decimals relate to fractions, especially tenths and hundredths\nGradually increase complexity, moving to operations with fractions and decimals"
   },
   {
     "objectID": "modules/module02-slides.html#exercises",
@@ -231,27 +245,6 @@
     "text": "Numbers\nThe sets of numbers form a hierarchy:\n\nNatural numbers (ℕ): Positive integers used for counting.\nWhole numbers (ℕ0): Natural numbers plus zero.\nIntegers (ℤ): Positive and negative whole numbers.\nRational numbers (ℚ): Numbers that can be expressed as fractions.\nIrrational numbers: Numbers that cannot be expressed as fractions (e.g., π, √2).\nReal numbers (ℝ): The union of rational and irrational numbers.\nComplex numbers (ℂ): Numbers with a real and imaginary part.\n\n\nNatural numbers\n\nDefinition: Positive integers used for counting (1, 2, 3, …)\nAlso called counting numbers\nDenoted by N or ℕ Smallest natural number: 1\nNo largest natural number (infinite set)\n\n\n\nWhole numbers\n\nDefinition: Natural numbers plus zero (0, 1, 2, 3, …)\nIncludes all non-negative integers\n\n\nKey differences\n\nNatural numbers start at 1, whole numbers start at 0\nWhole numbers are a superset of natural numbers"
   },
   {
-    "objectID": "modules/module02.html#exercises",
-    "href": "modules/module02.html#exercises",
-    "title": "Module 2: Numbers and sets",
-    "section": "Exercises",
-    "text": "Exercises\n\nUse Polya’s problem-solving approach to solve: A rectangle’s length is twice its width. If its perimeter is 30 cm, what are its dimensions?\nHow might we introduce struggling learners to the concept of sets and numbers?\nGiven sets A = {1, 2, 3, 4} and B = {3, 4, 5, 6}, find A ∪ B and A ∩ B."
-  },
-  {
-    "objectID": "standards/umoja.html",
-    "href": "standards/umoja.html",
-    "title": "EDUC 315: Principles of Teaching Math and Science in Urban Classrooms II (Grades 4-6)",
-    "section": "",
-    "text": "https://umojacommunity.org/umoja-curriculum"
-  },
-  {
-    "objectID": "modules/module02.html#teaching-sets-and-numbers",
-    "href": "modules/module02.html#teaching-sets-and-numbers",
-    "title": "Module 2: Numbers and sets",
-    "section": "Teaching sets and numbers",
-    "text": "Teaching sets and numbers\nTo effectively teach numbers, fractions, and decimals, teachers should follow a structured approach that builds conceptual understanding and connects the related topics."
-  },
-  {
     "objectID": "modules/module02.html#teaching-sets",
     "href": "modules/module02.html#teaching-sets",
     "title": "Module 2: Numbers and sets",
@@ -266,38 +259,17 @@
     "text": "Teaching Numbers\n\nStart with natural numbers (1, 2, 3, …) for counting and basic operations\nIntroduce whole numbers, including zero\nEmphasize place value concepts and number relationships\n\n\nTeaching Fractions\n\nBegin with concrete models and visual representations\nUse fraction walls and number lines to demonstrate equivalence\nIntroduce proper fractions before improper fractions and mixed numbers\nFocus on conceptual understanding before moving to procedures\n\n\n\nTeaching Decimals\n\nConnect decimals to fractions, especially tenths and hundredths\nUse place value language (e.g., “two-tenths and four-hundredths” for 0.24)\nEmploy visual models like decimal grids and number lines\n\n\n\nConnecting Fractions and Decimals\n\nExplicitly show the relationship between fractions and decimals\nUse double number lines to compare fractions and decimals\nDemonstrate conversion between fractions and decimals\n\n\n\nKey Teaching Strategies\n\nUse manipulatives and visual models extensively\nEncourage students to make connections between concepts\nProvide ample opportunities for practice and discussion\nAddress common misconceptions (e.g., longer decimal doesn’t always mean larger number)\nIntegrate real-world applications and problem-solving\n\n\n\nProgression\n\nTeach fractions before decimals to build a strong conceptual foundation\nIntroduce decimals as an extension of the place value system\nShow how decimals relate to fractions, especially tenths and hundredths\nGradually increase complexity, moving to operations with fractions and decimals"
   },
   {
-    "objectID": "modules/module02.html#teaching-fractions",
-    "href": "modules/module02.html#teaching-fractions",
+    "objectID": "modules/module02.html#exercises",
+    "href": "modules/module02.html#exercises",
     "title": "Module 2: Numbers and sets",
-    "section": "Teaching Fractions",
-    "text": "Teaching Fractions\n\nBegin with concrete models and visual representations\nUse fraction walls and number lines to demonstrate equivalence\nIntroduce proper fractions before improper fractions and mixed numbers\nFocus on conceptual understanding before moving to procedures"
+    "section": "Exercises",
+    "text": "Exercises\n\nUse Polya’s problem-solving approach to solve: A rectangle’s length is twice its width. If its perimeter is 30 cm, what are its dimensions?\nHow might we introduce struggling learners to the concept of sets and numbers?\nGiven sets A = {1, 2, 3, 4} and B = {3, 4, 5, 6}, find A ∪ B and A ∩ B."
   },
   {
-    "objectID": "modules/module02.html#teaching-decimals",
-    "href": "modules/module02.html#teaching-decimals",
-    "title": "Module 2: Numbers and sets",
-    "section": "Teaching Decimals",
-    "text": "Teaching Decimals\n\nConnect decimals to fractions, especially tenths and hundredths\nUse place value language (e.g., “two-tenths and four-hundredths” for 0.24)\nEmploy visual models like decimal grids and number lines"
-  },
-  {
-    "objectID": "modules/module02.html#connecting-fractions-and-decimals",
-    "href": "modules/module02.html#connecting-fractions-and-decimals",
-    "title": "Module 2: Numbers and sets",
-    "section": "Connecting Fractions and Decimals",
-    "text": "Connecting Fractions and Decimals\n\nExplicitly show the relationship between fractions and decimals\nUse double number lines to compare fractions and decimals\nDemonstrate conversion between fractions and decimals"
-  },
-  {
-    "objectID": "modules/module02.html#key-teaching-strategies",
-    "href": "modules/module02.html#key-teaching-strategies",
-    "title": "Module 2: Numbers and sets",
-    "section": "Key Teaching Strategies",
-    "text": "Key Teaching Strategies\n\nUse manipulatives and visual models extensively\nEncourage students to make connections between concepts\nProvide ample opportunities for practice and discussion\nAddress common misconceptions (e.g., longer decimal doesn’t always mean larger number)\nIntegrate real-world applications and problem-solving"
-  },
-  {
-    "objectID": "modules/module02.html#progression-1",
-    "href": "modules/module02.html#progression-1",
-    "title": "Module 2: Numbers and sets",
-    "section": "Progression",
-    "text": "Progression\n\nTeach fractions before decimals to build a strong conceptual foundation\nIntroduce decimals as an extension of the place value system\nShow how decimals relate to fractions, especially tenths and hundredths\nGradually increase complexity, moving to operations with fractions and decimals"
+    "objectID": "standards/umoja.html",
+    "href": "standards/umoja.html",
+    "title": "EDUC 315: Principles of Teaching Math and Science in Urban Classrooms II (Grades 4-6)",
+    "section": "",
+    "text": "https://umojacommunity.org/umoja-curriculum"
   }
 ]
