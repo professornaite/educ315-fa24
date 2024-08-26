@@ -18,6 +18,10 @@ format:
     incremental: false
 ---
 
+# Module overview
+
+In this module,
+
 # Framing mathematics and science
 
 **Science** is the systematic study and pursuit of knowledge about the natural and physical world through observation, experimentation, and the formulation of testable hypotheses. It involves a methods-based approach to understanding phenomena and developing explanations based on empirical evidence.
@@ -102,7 +106,6 @@ The concept of infinity in mathematics vs. everyday life
 
 Paradoxes involving infinity (e.g., Hilbert's Hotel)
 
-
 # Exercises
 
 1.  Who is George Polya? What is Polya's Four-Step Process applied to problem solving?
@@ -110,4 +113,3 @@ Paradoxes involving infinity (e.g., Hilbert's Hotel)
 2.  How would you introduce the concept of zero to a 5th grader who has had issues understanding concepts before?
 
 3.  How would you extend the concept of infinity for a 5th grader who has an exceptional understanding of mathemtics?
-
