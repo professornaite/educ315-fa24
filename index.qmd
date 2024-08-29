@@ -7,7 +7,7 @@ The pages on this site outline the technical components of **EDUC 315: Principle
 
 ::: column-screen-inset-right
 | Week |   Day   |           Module           | Topics                                                                                                  |
-|:--------:|:--------:|:--------:|------------------------------------------|
+|:-----------:|:-----------:|:-----------:|-----------------------------------|
 |  1   | Aug 19  | [1](modules/module01.html) | Introductions; What do we mean by ‘zero’, $0$?                                                          |
 |      | Aug 21  | [1](modules/module01.html) | What do we mean by ‘infinity’, $\infty$?; Syllabus review                                               |
 |      |         |                            |                                                                                                         |
@@ -36,13 +36,12 @@ The pages on this site outline the technical components of **EDUC 315: Principle
 |  11  | Oct 28  |             6              | Rates; Modeling the real-world                                                                          |
 |      | Oct 30  |             6              | Functions and variables; Introducing abstract concepts                                                  |
 |      |         |                            |                                                                                                         |
-|  12  |  Nov 4  |             7              | Steps of the Scientific Method; Science teaching in grades 4-6                                          |
-|      |  Nov 6  |             7              | Developing a hypothesis; Science stations (chem, bio, physics)                                          |
+|  12  |  Nov 4  |             7              | Steps of the Mathematical Method; modeling in grades 4-6                                                |
+|      |  Nov 6  |             7              | Developing a hypothesis; math stations (arithmetic, algebra, geometry)                                  |
 |  13  | Nov 11  |             7              | University closed: Veterans Day                                                                         |
-|      | Nov 13  |             7              | Types of data; Data collection methods                                                                  |
+|      | Nov 13  |             7              | Types of mathematical data; statistical methods                                                         |
 |  14  | Nov 18  |             7              | Analyzing data from experiments; Drawing conclusions                                                    |
-|      | Nov 20  |             7              | Analyzing student data; Student data exercise                                                           |
-|      |         |                            |                                                                                                         |
+|      | Nov 20  |             8              | Analyzing student data; Student data exercise                                                           |
 |  15  | Nov 25  |             8              | Student assessment                                                                                      |
 |      | Nov 27  |                            | Course closing and reflections                                                                          |
 :::

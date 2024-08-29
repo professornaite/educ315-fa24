@@ -1,0 +1,25 @@
+---
+title: "Weekly schedules"
+---
+
+This schedule is designed to provide you with a comprehensive and progressive experience during your field experience and covers 8 of the required 10 weeks. The schedule is divided into three main phases: observation (weeks 1-4), support and individual tutoring (weeks 5-6), and mini-lessons and whole class activities (weeks 7-10). This structure will allow you to gradually build your skills and confidence in supporting mathematics instruction, moving from passive observation to active teaching. Each week focuses on a specific aspect of math instruction or student interaction.
+
+To maximize the benefits of your field placement, you are required to maintain a detailed field placement log. This log should track all the information outlined in the third column of the schedule below. Your log entries should include the date, specific observation notes, reflections on teaching strategies, notes on student interactions, and your personal growth throughout the experience. Pay particular attention to documenting the progression of your involvement, from initial observations to leading class activities. This log will serve as a valuable resource for your professional development, helping you identify areas of strength and opportunities for improvement. Additionally, it will provide concrete examples and experiences to draw upon during future job interviews or when developing your teaching philosophy.
+
+| Week | Main Task                                           | Suggestions                                                   |
+|-------|------------------|----------------------------------------------------------|
+| 1    | Observe class routines                              | Take notes on teacher strategies and student engagement       |
+|      |                                                     |                                                               |
+| 2    | Observe math instruction techniques                 | Focus on questioning strategies and differentiation methods   |
+|      |                                                     |                                                               |
+| 3    | Observe student interactions during math activities | Note misconceptions and how the teacher addresses them        |
+|      |                                                     |                                                               |
+| 4    | Observe assessment practices                        | Pay attention to assessment techniques and feedback           |
+|      |                                                     |                                                               |
+| 5    | Provide one-on-one support to a student             | Assist students and practice explaining concepts clearly      |
+|      |                                                     |                                                               |
+| 6    | Lead a group tutorial on a math topic               | Prepare mini-lessons on difficult concepts                    |
+|      |                                                     |                                                               |
+| 7    | Co-teach a full lesson with the mentor teacher      | Plan and deliver a portion of the lesson                      |
+|      |                                                     |                                                               |
+| 8    | Lead a math-related class activity or game          | Design an engaging activity that reinforces key math concepts |

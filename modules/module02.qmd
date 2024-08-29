@@ -83,7 +83,7 @@ The sets of numbers form a hierarchy:
 2.  **Whole numbers (ℕ~0~)**: Natural numbers plus zero.
 3.  **Integers (ℤ)**: Positive and negative whole numbers.
 4.  **Rational numbers (ℚ)**: Numbers that can be expressed as fractions.
-5.  **Irrational numbers**: Numbers that cannot be expressed as fractions (e.g., π, √2).
+5.  **Irrational numbers**: Numbers that cannot be expressed as fractions (e.g., π, √2, √3).
 6.  **Real numbers (ℝ)**: The union of rational and irrational numbers.
 7.  **Complex numbers (ℂ)**: Numbers with a real and imaginary part.
 
@@ -120,7 +120,7 @@ To effectively teach numbers, fractions, and decimals, teachers should follow a 
 
 ### Basic Set Concepts
 
--   Teach set notation: { } for listing elements, ∈ for "is an element of"
+-   Teach set notation: { } for listing elements, $\epsilon$ for "is an element of"
 -   Explain finite and infinite sets
 -   Introduce the empty set (∅ or { })
 

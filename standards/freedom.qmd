@@ -1,5 +1,9 @@
-<http://www.educationanddemocracy.org/FSCpdf/FreedomSchoolCurrW_Photo.pdf>
+---
+title: "Freedom School Curriculum"
+---
 
-Acenstral:
+```{=html}
+<embed src="http://www.educationanddemocracy.org/FSCpdf/FreedomSchoolCurrW_Photo.pdf" width="800px" height="2100px" />
+```
 
-<https://lyricalzen.com/ancestral-mathematics/>
+Download the file by clicking [here](http://www.educationanddemocracy.org/FSCpdf/FreedomSchoolCurrW_Photo.pdf)
