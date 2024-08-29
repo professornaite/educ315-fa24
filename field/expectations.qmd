@@ -29,7 +29,7 @@ Our future teachers are required to maintain a detailed field experience log thr
 
 2. **Content**: Include detailed observations, reflections on teaching strategies, notes on student interactions, and personal growth insights. NO student names or personal information should be included.
 
-3. **Structure**: Organize log by date and tunem abd align entries with the weekly tasks and suggestions provided in the schedule [here](field/weekly.qmd).
+3. **Structure**: Organize log by date and tunem abd align entries with the weekly tasks and suggestions provided in the schedule [here](weekly.qmd).
 
 4. **Reflection**: Include thoughts on what is learned, questions that arise, and ideas for future implementation in your own teaching.
 
