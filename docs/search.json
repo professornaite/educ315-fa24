@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "modules/module03.html",
+    "href": "modules/module03.html",
+    "title": "Module 3: Numbers and sets",
+    "section": "",
+    "text": "Module: Quantity and Operations"
+  },
+  {
+    "objectID": "modules/module03.html#module-overview",
+    "href": "modules/module03.html#module-overview",
+    "title": "Module 3: Numbers and sets",
+    "section": "Module Overview",
+    "text": "Module Overview\nThis module explores the mathematical concepts focusing on quantity and operations within the context of elementary mathematics. The module covers the historical development of arithmetic operations, introduces the Concrete-Representational-Abstract (CRA) approach to teaching mathematics, delves into the properties of basic arithmetic operations, and examines the relationships between different operations. By the end of this module, you will have a comprehensive understanding of quantity and operations to effectively deal with various mathematical representation in diverse classrooms."
+  },
+  {
+    "objectID": "modules/module03.html#quantity-and-operation",
+    "href": "modules/module03.html#quantity-and-operation",
+    "title": "Module 3: Numbers and sets",
+    "section": "Quantity and Operation",
+    "text": "Quantity and Operation\nQuantity: A quantity is a property or characteristic that can be measured or counted. In mathematics, it refers to an amount that can be expressed as a number or a numerical value.\nExamples:\n\nThe number of apples in a basket (discrete quantity)\nThe volume of water in a container (continuous quantity)\nThe temperature of a room (measurable quantity)\nThe speed of a car (derived quantity)\n\nKey points:\n\nQuantities can be discrete (countable) or continuous (measurable)\nThey are often associated with units of measurement\nQuantities form the basis for mathematical operations and comparisons\n\nOperation: An operation is a mathematical process or action performed on one or more quantities to produce a new quantity or result. It is a rule for combining mathematical objects or values.\nExamples:\n\nAddition (sum): Combining two or more quantities (e.g., 5 + 3 = 8)\nSubtraction (difference): Finding the difference between quantities (e.g., 10 - 4 = 6)\nMultiplication (product): Repeated addition or scaling (e.g., 3 × 4 = 12)\nDivision (quotient): Distributing a quantity into equal parts (e.g., 15 ÷ 3 = 5)\nExponentiation (exponent): Repeated multiplication (e.g., 2³ = 8)\nRoot extraction (root): Inverse of exponentiation (e.g., √16 = 4)\n\nKey points:\n\nOperations transform quantities into new quantities\nThey follow specific rules and properties (e.g., commutative, associative)\nUnderstanding operations is crucial for problem-solving and algebraic thinking\n\nThe study of quantities and operations forms the foundation for numerical literacy and mathematical reasoning. Students learn to identify and represent quantities, and then apply various operations to solve problems and explore mathematical relationships. This understanding is essential for developing more advanced mathematical concepts and for applying mathematics in real-world situations."
+  },
+  {
+    "objectID": "modules/module03.html#sum-and-difference",
+    "href": "modules/module03.html#sum-and-difference",
+    "title": "Module 3: Numbers and sets",
+    "section": "Sum and Difference",
+    "text": "Sum and Difference\n\nDefinition and properties of addition and subtraction\nRelationship between sum and difference\nCommutative and associative properties of addition\nInverse relationship between addition and subtraction"
+  },
+  {
+    "objectID": "modules/module03.html#product-and-quotient",
+    "href": "modules/module03.html#product-and-quotient",
+    "title": "Module 3: Numbers and sets",
+    "section": "Product and Quotient",
+    "text": "Product and Quotient"
+  },
+  {
+    "objectID": "modules/module03.html#exponents-and-roots",
+    "href": "modules/module03.html#exponents-and-roots",
+    "title": "Module 3: Numbers and sets",
+    "section": "Exponents and Roots",
+    "text": "Exponents and Roots"
+  },
+  {
+    "objectID": "modules/module03.html#teaching-stem-figures-and-mathematical-concepts",
+    "href": "modules/module03.html#teaching-stem-figures-and-mathematical-concepts",
+    "title": "Module 3: Numbers and sets",
+    "section": "Teaching STEM Figures and mathematical concepts",
+    "text": "Teaching STEM Figures and mathematical concepts"
+  },
+  {
+    "objectID": "modules/module03-slides.html#module-overview",
+    "href": "modules/module03-slides.html#module-overview",
+    "title": "Module 3: Numbers and sets",
+    "section": "Module Overview",
+    "text": "Module Overview\nThis module explores the mathematical concepts focusing on quantity and operations within the context of elementary mathematics. The module covers the historical development of arithmetic operations, introduces the Concrete-Representational-Abstract (CRA) approach to teaching mathematics, delves into the properties of basic arithmetic operations, and examines the relationships between different operations. By the end of this module, you will have a comprehensive understanding of quantity and operations to effectively deal with various mathematical representation in diverse classrooms."
+  },
+  {
+    "objectID": "modules/module03-slides.html#quantity-and-operation",
+    "href": "modules/module03-slides.html#quantity-and-operation",
+    "title": "Module 3: Numbers and sets",
+    "section": "Quantity and Operation",
+    "text": "Quantity and Operation\nQuantity: A quantity is a property or characteristic that can be measured or counted. In mathematics, it refers to an amount that can be expressed as a number or a numerical value.\nExamples:\n\nThe number of apples in a basket (discrete quantity)\nThe volume of water in a container (continuous quantity)\nThe temperature of a room (measurable quantity)\nThe speed of a car (derived quantity)\n\nKey points:\n\nQuantities can be discrete (countable) or continuous (measurable)\nThey are often associated with units of measurement\nQuantities form the basis for mathematical operations and comparisons\n\nOperation: An operation is a mathematical process or action performed on one or more quantities to produce a new quantity or result. It is a rule for combining mathematical objects or values.\nExamples:\n\nAddition (sum): Combining two or more quantities (e.g., 5 + 3 = 8)\nSubtraction (difference): Finding the difference between quantities (e.g., 10 - 4 = 6)\nMultiplication (product): Repeated addition or scaling (e.g., 3 × 4 = 12)\nDivision (quotient): Distributing a quantity into equal parts (e.g., 15 ÷ 3 = 5)\nExponentiation (exponent): Repeated multiplication (e.g., 2³ = 8)\nRoot extraction (root): Inverse of exponentiation (e.g., √16 = 4)\n\nKey points:\n\nOperations transform quantities into new quantities\nThey follow specific rules and properties (e.g., commutative, associative)\nUnderstanding operations is crucial for problem-solving and algebraic thinking\n\nThe study of quantities and operations forms the foundation for numerical literacy and mathematical reasoning. Students learn to identify and represent quantities, and then apply various operations to solve problems and explore mathematical relationships. This understanding is essential for developing more advanced mathematical concepts and for applying mathematics in real-world situations."
+  },
+  {
+    "objectID": "modules/module03-slides.html#sum-and-difference",
+    "href": "modules/module03-slides.html#sum-and-difference",
+    "title": "Module 3: Numbers and sets",
+    "section": "Sum and Difference",
+    "text": "Sum and Difference\n\nDefinition and properties of addition and subtraction\nRelationship between sum and difference\nCommutative and associative properties of addition\nInverse relationship between addition and subtraction"
+  },
+  {
+    "objectID": "modules/module03-slides.html#product-and-quotient",
+    "href": "modules/module03-slides.html#product-and-quotient",
+    "title": "Module 3: Numbers and sets",
+    "section": "Product and Quotient",
+    "text": "Product and Quotient"
+  },
+  {
+    "objectID": "modules/module03-slides.html#exponents-and-roots",
+    "href": "modules/module03-slides.html#exponents-and-roots",
+    "title": "Module 3: Numbers and sets",
+    "section": "Exponents and Roots",
+    "text": "Exponents and Roots"
+  },
+  {
+    "objectID": "modules/module03-slides.html#teaching-stem-figures-and-mathematical-concepts",
+    "href": "modules/module03-slides.html#teaching-stem-figures-and-mathematical-concepts",
+    "title": "Module 3: Numbers and sets",
+    "section": "Teaching STEM Figures and mathematical concepts",
+    "text": "Teaching STEM Figures and mathematical concepts\n\n\n\nCourse Data GitHub"
+  },
+  {
+    "objectID": "field/expectations.html",
+    "href": "field/expectations.html",
+    "title": "Field Expectations",
+    "section": "",
+    "text": "This page provides language for your cooperating teachers along information for you both to review related to the expectations of your field placement.\n\nWelcome Letter for Cooperating Teachers\nDear Teacher Colleagues,\nThank you for partnering in our mathematics field experience.\nYour role is crucial in helping to shape the next generation of Howard University prepared educators. This 10-week field placement is designed to provide our students with a comprehensive classroom experience. We ask for your support in guiding them through observations, one-on-one tutoring, and eventually leading a lesson or activities.\nYour mentoring will be invaluable as our pre-service teachers progress from observers to active participants in your classroom. We appreciate your willingness to share your expertise, provide constructive feedback, and create opportunities for our students to apply their learning.\nPlease review the field experience expectations below. If you have any questions or concerns, please don’t hesitate to contact our field placement coordinator, Dr. Renix, or me, Dr. Nathan Alexander (the instructor for the course).\nThank you again for your commitment to teacher education.\nWarm regards, Prof. Alexander\n\n\nField Log Expectations\nOur future teachers are required to maintain a detailed field experience log throughout their placement. This log serves as a reflective tool and a record of your growth, so they may be taking notes during their time in your classroom. Here are some general expectations for their log:\n\nRegular notes: Make entries during or after each field experience session.\nContent: Include detailed observations, reflections on teaching strategies, notes on student interactions, and personal growth insights. NO student names or personal information should be included.\nStructure: Organize log by date and tunem abd align entries with the weekly tasks and suggestions provided in the schedule here.\nReflection: Include thoughts on what is learned, questions that arise, and ideas for future implementation in your own teaching.\nConnections: Draw links between your observations and the educational theories and methods from class.\nSpecificity: Provide concrete examples and avoid generalizations. Here, you may use pseudonyms or numbers (e.g., student 1, student 2) to protect student privacy.\nProfessional Growth: Document your progression from observer to active teacher, noting challenges and successes along the way.\n\nYour field experience log will be reviewed periodically by your university supervisor and will form part of your overall assessment for the placement.\n\n\nAttendance Expectations\nConsistent attendance is crucial for a meaningful field experience. Here are our course’s attendance expectations:\n\nDuration: The field placement consists of a minimum of two hours per week for 8-10 weeks, totaling 20 hours.\nScheduling: Work with your cooperating teacher to establish a regular schedule that fits both your needs and the classroom’s schedule.\nPunctuality: Arrive at least 10 minutes before your scheduled time to prepare for the day’s activities.\nAbsences: If you must miss a scheduled session due to illness or emergency, notify both your cooperating teacher and Dr. Alexander via email as soon as possible. Arrange to make up any missed time.\nProfessionalism: Treat this experience as you would a job. Dress professionally and adhere to the school’s policies and procedures.\nDocumentation: Record your attendance in your field experience log, including dates, times, and hours completed.\nCompletion: You must complete all 20 hours to receive credit for the field placement. Any shortfall in hours must be made up before the end of the semester."
+  }
+]

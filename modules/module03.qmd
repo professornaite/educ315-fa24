@@ -6,7 +6,7 @@ institute: "School of Education"
 format: 
   html: default
   revealjs:
-    output-file: module02-slides.html
+    output-file: module03-slides.html
     height: 900
     width: 1600
     smaller: false
