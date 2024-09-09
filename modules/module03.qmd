@@ -1,0 +1,75 @@
+---
+title: "Module 3: Numbers and sets"
+subtitle: "EDUC 315 - Howard University"
+author: "Nathan Alexander, PhD"
+institute: "School of Education"
+format: 
+  html: default
+  revealjs:
+    output-file: module02-slides.html
+    height: 900
+    width: 1600
+    smaller: false
+    slide-number: c/t #< collapsted/total
+    logo: "img/howard-logo.jpg"
+    footer: "[Course Data GitHub](https://github.com/educ315-fa24)"
+    toc: false
+    echo: true
+    incremental: false
+---
+
+Module: Quantity and Operations
+
+## Module Overview
+
+This module explores the mathematical concepts focusing on quantity and operations within the context of elementary mathematics. The module covers the historical development of arithmetic operations, introduces the Concrete-Representational-Abstract (CRA) approach to teaching mathematics, delves into the properties of basic arithmetic operations, and examines the relationships between different operations. By the end of this module, you will have a comprehensive understanding of quantity and operations to effectively deal with various mathematical representation in diverse classrooms.
+
+## Quantity and Operation
+
+**Quantity**: A quantity is a property or characteristic that can be measured or counted. In mathematics, it refers to an amount that can be expressed as a number or a numerical value.
+
+Examples:
+
+- The number of apples in a basket (discrete quantity)
+- The volume of water in a container (continuous quantity)
+- The temperature of a room (measurable quantity)
+- The speed of a car (derived quantity)
+
+Key points:
+
+- Quantities can be discrete (countable) or continuous (measurable)
+- They are often associated with units of measurement
+- Quantities form the basis for mathematical operations and comparisons
+
+**Operation**: An operation is a mathematical process or action performed on one or more quantities to produce a new quantity or result. It is a rule for combining mathematical objects or values.
+
+Examples:
+
+- Addition (sum): Combining two or more quantities (e.g., 5 + 3 = 8)
+- Subtraction (difference): Finding the difference between quantities (e.g., 10 - 4 = 6)
+- Multiplication (product): Repeated addition or scaling (e.g., 3 × 4 = 12)
+- Division (quotient): Distributing a quantity into equal parts (e.g., 15 ÷ 3 = 5)
+- Exponentiation (exponent): Repeated multiplication (e.g., 2³ = 8)
+- Root extraction (root): Inverse of exponentiation (e.g., √16 = 4)
+
+Key points:
+
+- Operations transform quantities into new quantities
+- They follow specific rules and properties (e.g., commutative, associative)
+- Understanding operations is crucial for problem-solving and algebraic thinking
+
+The study of quantities and operations forms the foundation for numerical literacy and mathematical reasoning. Students learn to identify and represent quantities, and then apply various operations to solve problems and explore mathematical relationships. This understanding is essential for developing more advanced mathematical concepts and for applying mathematics in real-world situations.
+
+## Sum and Difference
+
+- Definition and properties of addition and subtraction
+- Relationship between sum and difference
+- Commutative and associative properties of addition
+- Inverse relationship between addition and subtraction
+
+## Product and Quotient
+
+
+## Exponents and Roots
+
+## Teaching STEM Figures and mathematical concepts

@@ -2,8 +2,6 @@
 title: "Freedom School Curriculum"
 ---
 
-```{=html}
 <embed src="http://www.educationanddemocracy.org/FSCpdf/FreedomSchoolCurrW_Photo.pdf" width="800px" height="2100px" />
-```
 
 Download the file by clicking [here](http://www.educationanddemocracy.org/FSCpdf/FreedomSchoolCurrW_Photo.pdf)

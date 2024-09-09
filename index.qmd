@@ -7,7 +7,7 @@ The pages on this site outline the technical components of **EDUC 315: Principle
 
 ::: column-screen-inset-right
 | Week |   Day   |           Module           | Topics                                                                                                  |
-|:-----------:|:-----------:|:-----------:|-----------------------------------|
+|:------------:|:------------:|:------------:|-----------------------------|
 |  1   | Aug 19  | [1](modules/module01.html) | Introductions; What do we mean by ‘zero’, $0$?                                                          |
 |      | Aug 21  | [1](modules/module01.html) | What do we mean by ‘infinity’, $\infty$?; Syllabus review                                               |
 |      |         |                            |                                                                                                         |
@@ -16,7 +16,7 @@ The pages on this site outline the technical components of **EDUC 315: Principle
 |  3   | Sept 2  |                            | University closed: Labor Day                                                                            |
 |      | Sept 4  | [2](modules/module02.html) | Teaching numbers, fractions, and decimals                                                               |
 |      |         |                            |                                                                                                         |
-|  4   | Sept 9  |             3              | Sum, Difference; Teaching diverse students                                                              |
+|  4   | Sept 9  |             [3](modules/module03.html)              | Sum, Difference; Teaching diverse students                                                              |
 |      | Sept 11 |             3              | Product, Quotient; Teaching operations                                                                  |
 |  5   | Sept 16 |             3              | Exponent and root; Ancestral mathematics activity                                                       |
 |      | Sept 18 |             3              | **Excursion 1**: National Portrait Gallery; Historical figures in STEM                                  |

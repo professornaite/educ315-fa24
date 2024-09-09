@@ -170,9 +170,9 @@
   {
     "objectID": "modules/module02-slides.html#module-overview",
     "href": "modules/module02-slides.html#module-overview",
-    "title": "Module 2: Numbers and sets",
+    "title": "Module 3: Numbers and sets",
     "section": "Module Overview",
-    "text": "Module Overview\nThis module explores fundamental concepts in mathematics, focusing on numbers and sets within the context of problem-solving strategies. It is designed for teachers of grades 4-6 in urban classrooms. The module covers the history of problem-solving in mathematics, introduces George Polya’s problem-solving approach, delves into number theory, and examines the concept of sets and various number systems. By the end of this module, teachers will have a comprehensive understanding of these topics and be equipped to apply problem-solving strategies in their classrooms."
+    "text": "Module Overview\nThis module explores the mathematical concepts focusing on quantity and operations within the context of elementary mathematics. The module covers the historical development of arithmetic operations, introduces the Concrete-Representational-Abstract (CRA) approach to teaching mathematics, delves into the properties of basic arithmetic operations, and examines the relationships between different operations. By the end of this module, you will have a comprehensive understanding of quantity and operations to effectively deal with various mathematical representation in diverse classrooms."
   },
   {
     "objectID": "modules/module02-slides.html#problem-solving",
@@ -235,7 +235,7 @@
     "href": "modules/module02.html#module-overview",
     "title": "Module 2: Numbers and sets",
     "section": "Module Overview",
-    "text": "Module Overview\nThis module explores fundamental concepts in mathematics, focusing on numbers and sets within the context of problem-solving strategies. It is designed for teachers of grades 4-6 in urban classrooms. The module covers the history of problem-solving in mathematics, introduces George Polya’s problem-solving approach, delves into number theory, and examines the concept of sets and various number systems. By the end of this module, teachers will have a comprehensive understanding of these topics and be equipped to apply problem-solving strategies in their classrooms."
+    "text": "Module Overview\nThis module explores fundamental concepts in mathematics, focusing on numbers and sets within the context of problem-solving strategies. It is designed for teachers of grades 4-6 in urban classrooms. The module covers the history of problem-solving in mathematics, introduces George Polya’s problem-solving approach, delves into number theory, and examines the concept of sets and various number systems. By the end of this module, you will have a comprehensive understanding of these topics and be equipped to apply problem-solving strategies in their classrooms."
   },
   {
     "objectID": "modules/module02.html#problem-solving",
@@ -299,5 +299,103 @@
     "title": "Common Core State Standards",
     "section": "",
     "text": "Text for this page was taken from osse.dc.gov:\nThe Common Core State Standards (CCSS) - Mathematics were adopted by the DC State Board of Education (July, 2010), as the K-12 Math Standards for the District of Columbia. Schools began a staged implementation of the standards during the 2011-12 school year. From 2011-2014, teachers received ongoing training in Common Core implementation, with full implementation occurring during the 2014-15 school year.\nThe CCSS-Mathematics demand a shift in math instruction from an emphasis on procedural fluency towards a balance between procedural fluency, conceptual understanding and application of concepts, so students are better prepared for the critical thinking necessary to succeed in college, careers and their daily lives. OSSE seeks to support high-quality implementation of the Common Core State Standards for Mathematics.\nFind more information by clicking here"
+  },
+  {
+    "objectID": "modules/module03.html",
+    "href": "modules/module03.html",
+    "title": "Module 3: Numbers and sets",
+    "section": "",
+    "text": "Module: Quantity and Operations"
+  },
+  {
+    "objectID": "modules/module03.html#module-overview",
+    "href": "modules/module03.html#module-overview",
+    "title": "Module 3: Numbers and sets",
+    "section": "Module Overview",
+    "text": "Module Overview\nThis module explores the mathematical concepts focusing on quantity and operations within the context of elementary mathematics. The module covers the historical development of arithmetic operations, introduces the Concrete-Representational-Abstract (CRA) approach to teaching mathematics, delves into the properties of basic arithmetic operations, and examines the relationships between different operations. By the end of this module, you will have a comprehensive understanding of quantity and operations to effectively deal with various mathematical representation in diverse classrooms."
+  },
+  {
+    "objectID": "modules/module03.html#quantity-and-operations",
+    "href": "modules/module03.html#quantity-and-operations",
+    "title": "Module 3: Numbers and sets",
+    "section": "Quantity and Operations",
+    "text": "Quantity and Operations\nI apologize for the misunderstanding. Let me provide definitions for “quantity” and “operation” individually:"
+  },
+  {
+    "objectID": "modules/module03.html#quantity-and-operation",
+    "href": "modules/module03.html#quantity-and-operation",
+    "title": "Module 3: Numbers and sets",
+    "section": "Quantity and Operation",
+    "text": "Quantity and Operation\nQuantity: A quantity is a property or characteristic that can be measured or counted. In mathematics, it refers to an amount that can be expressed as a number or a numerical value.\nExamples:\n\nThe number of apples in a basket (discrete quantity)\nThe volume of water in a container (continuous quantity)\nThe temperature of a room (measurable quantity)\nThe speed of a car (derived quantity)\n\nKey points:\n\nQuantities can be discrete (countable) or continuous (measurable)\nThey are often associated with units of measurement\nQuantities form the basis for mathematical operations and comparisons\n\nOperation: An operation is a mathematical process or action performed on one or more quantities to produce a new quantity or result. It is a rule for combining mathematical objects or values.\nExamples:\n\nAddition (sum): Combining two or more quantities (e.g., 5 + 3 = 8)\nSubtraction (difference): Finding the difference between quantities (e.g., 10 - 4 = 6)\nMultiplication (product): Repeated addition or scaling (e.g., 3 × 4 = 12)\nDivision (quotient): Distributing a quantity into equal parts (e.g., 15 ÷ 3 = 5)\nExponentiation (exponent): Repeated multiplication (e.g., 2³ = 8)\nRoot extraction (root): Inverse of exponentiation (e.g., √16 = 4)\n\nKey points:\n\nOperations transform quantities into new quantities\nThey follow specific rules and properties (e.g., commutative, associative)\nUnderstanding operations is crucial for problem-solving and algebraic thinking\n\nThe study of quantities and operations forms the foundation for numerical literacy and mathematical reasoning. Students learn to identify and represent quantities, and then apply various operations to solve problems and explore mathematical relationships. This understanding is essential for developing more advanced mathematical concepts and for applying mathematics in real-world situations."
+  },
+  {
+    "objectID": "modules/module03.html#sum-and-difference",
+    "href": "modules/module03.html#sum-and-difference",
+    "title": "Module 3: Numbers and sets",
+    "section": "Sum and Difference",
+    "text": "Sum and Difference\n\nDefinition and properties of addition and subtraction\nRelationship between sum and difference\nCommutative and associative properties of addition\nInverse relationship between addition and subtraction"
+  },
+  {
+    "objectID": "modules/module03.html#product-and-quotient",
+    "href": "modules/module03.html#product-and-quotient",
+    "title": "Module 3: Numbers and sets",
+    "section": "Product and Quotient",
+    "text": "Product and Quotient"
+  },
+  {
+    "objectID": "modules/module03.html#exponents-and-roots",
+    "href": "modules/module03.html#exponents-and-roots",
+    "title": "Module 3: Numbers and sets",
+    "section": "Exponents and Roots",
+    "text": "Exponents and Roots"
+  },
+  {
+    "objectID": "modules/module03.html#teaching-stem-figures-and-mathematical-concepts",
+    "href": "modules/module03.html#teaching-stem-figures-and-mathematical-concepts",
+    "title": "Module 3: Numbers and sets",
+    "section": "Teaching STEM Figures and mathematical concepts",
+    "text": "Teaching STEM Figures and mathematical concepts"
+  },
+  {
+    "objectID": "modules/module02-slides.html#quantity-and-operations",
+    "href": "modules/module02-slides.html#quantity-and-operations",
+    "title": "Module 3: Numbers and sets",
+    "section": "Quantity and Operations",
+    "text": "Quantity and Operations\nI apologize for the misunderstanding. Let me provide definitions for “quantity” and “operation” individually:"
+  },
+  {
+    "objectID": "modules/module02-slides.html#quantity-and-operation",
+    "href": "modules/module02-slides.html#quantity-and-operation",
+    "title": "Module 3: Numbers and sets",
+    "section": "Quantity and Operation",
+    "text": "Quantity and Operation\nQuantity: A quantity is a property or characteristic that can be measured or counted. In mathematics, it refers to an amount that can be expressed as a number or a numerical value.\nExamples:\n\nThe number of apples in a basket (discrete quantity)\nThe volume of water in a container (continuous quantity)\nThe temperature of a room (measurable quantity)\nThe speed of a car (derived quantity)\n\nKey points:\n\nQuantities can be discrete (countable) or continuous (measurable)\nThey are often associated with units of measurement\nQuantities form the basis for mathematical operations and comparisons\n\nOperation: An operation is a mathematical process or action performed on one or more quantities to produce a new quantity or result. It is a rule for combining mathematical objects or values.\nExamples:\n\nAddition (sum): Combining two or more quantities (e.g., 5 + 3 = 8)\nSubtraction (difference): Finding the difference between quantities (e.g., 10 - 4 = 6)\nMultiplication (product): Repeated addition or scaling (e.g., 3 × 4 = 12)\nDivision (quotient): Distributing a quantity into equal parts (e.g., 15 ÷ 3 = 5)\nExponentiation (exponent): Repeated multiplication (e.g., 2³ = 8)\nRoot extraction (root): Inverse of exponentiation (e.g., √16 = 4)\n\nKey points:\n\nOperations transform quantities into new quantities\nThey follow specific rules and properties (e.g., commutative, associative)\nUnderstanding operations is crucial for problem-solving and algebraic thinking\n\nThe study of quantities and operations forms the foundation for numerical literacy and mathematical reasoning. Students learn to identify and represent quantities, and then apply various operations to solve problems and explore mathematical relationships. This understanding is essential for developing more advanced mathematical concepts and for applying mathematics in real-world situations."
+  },
+  {
+    "objectID": "modules/module02-slides.html#sum-and-difference",
+    "href": "modules/module02-slides.html#sum-and-difference",
+    "title": "Module 3: Numbers and sets",
+    "section": "Sum and Difference",
+    "text": "Sum and Difference\n\nDefinition and properties of addition and subtraction\nRelationship between sum and difference\nCommutative and associative properties of addition\nInverse relationship between addition and subtraction"
+  },
+  {
+    "objectID": "modules/module02-slides.html#product-and-quotient",
+    "href": "modules/module02-slides.html#product-and-quotient",
+    "title": "Module 3: Numbers and sets",
+    "section": "Product and Quotient",
+    "text": "Product and Quotient"
+  },
+  {
+    "objectID": "modules/module02-slides.html#exponents-and-roots",
+    "href": "modules/module02-slides.html#exponents-and-roots",
+    "title": "Module 3: Numbers and sets",
+    "section": "Exponents and Roots",
+    "text": "Exponents and Roots"
+  },
+  {
+    "objectID": "modules/module02-slides.html#teaching-stem-figures-and-mathematical-concepts",
+    "href": "modules/module02-slides.html#teaching-stem-figures-and-mathematical-concepts",
+    "title": "Module 3: Numbers and sets",
+    "section": "Teaching STEM Figures and mathematical concepts",
+    "text": "Teaching STEM Figures and mathematical concepts\n\n\n\nCourse Data GitHub"
   }
 ]
