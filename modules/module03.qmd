@@ -1,5 +1,5 @@
 ---
-title: "Module 3: Numbers and sets"
+title: "Module 3: Quantity and Operations"
 subtitle: "EDUC 315 - Howard University"
 author: "Nathan Alexander, PhD"
 institute: "School of Education"
