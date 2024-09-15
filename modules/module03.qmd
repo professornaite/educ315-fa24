@@ -22,7 +22,7 @@ Module: Quantity and Operations
 
 ## Module Overview
 
-This module explores the mathematical concepts focusing on quantity and operations within the context of elementary mathematics. The module covers the historical development of arithmetic operations, introduces the Concrete-Representational-Abstract (CRA) approach to teaching mathematics, delves into the properties of basic arithmetic operations, and examines the relationships between different operations. By the end of this module, you will have a comprehensive understanding of quantity and operations to effectively deal with various mathematical representation in diverse classrooms.
+This module explores the mathematical concepts focusing on quantity and operations within the context of elementary mathematics. The module covers the historical development of arithmetic operations, introduces the Concrete-Representational-Abstract (CRA) approach to teaching mathematics, delves into the properties of basic arithmetic operations, and examines the relationships between different operations. By the end of this module, you will have a comprehensive understanding of quantity and operations to effectively deal with various mathematical representations.
 
 ## Quantity and Operation
 
@@ -30,45 +30,72 @@ This module explores the mathematical concepts focusing on quantity and operatio
 
 Examples:
 
-- The number of apples in a basket (discrete quantity)
-- The volume of water in a container (continuous quantity)
-- The temperature of a room (measurable quantity)
-- The speed of a car (derived quantity)
+-   The number of apples in a basket (discrete quantity)
+-   The volume of water in a container (continuous quantity)
+-   The temperature of a room (measurable quantity)
+-   The speed of a car (derived quantity)
 
 Key points:
 
-- Quantities can be discrete (countable) or continuous (measurable)
-- They are often associated with units of measurement
-- Quantities form the basis for mathematical operations and comparisons
+-   Quantities can be discrete (countable) or continuous (measurable)
+-   They are often associated with units of measurement
+-   Quantities form the basis for mathematical operations and comparisons
 
 **Operation**: An operation is a mathematical process or action performed on one or more quantities to produce a new quantity or result. It is a rule for combining mathematical objects or values.
 
 Examples:
 
-- Addition (sum): Combining two or more quantities (e.g., 5 + 3 = 8)
-- Subtraction (difference): Finding the difference between quantities (e.g., 10 - 4 = 6)
-- Multiplication (product): Repeated addition or scaling (e.g., 3 × 4 = 12)
-- Division (quotient): Distributing a quantity into equal parts (e.g., 15 ÷ 3 = 5)
-- Exponentiation (exponent): Repeated multiplication (e.g., 2³ = 8)
-- Root extraction (root): Inverse of exponentiation (e.g., √16 = 4)
+-   Addition (sum): Combining two or more quantities (e.g., 5 + 3 = 8)
+-   Subtraction (difference): Finding the difference between quantities (e.g., 10 - 4 = 6)
+-   Multiplication (product): Repeated addition or scaling (e.g., 3 × 4 = 12)
+-   Division (quotient): Distributing a quantity into equal parts (e.g., 15 ÷ 3 = 5)
+-   Exponentiation (exponent): Repeated multiplication (e.g., 2³ = 8)
+-   Root extraction (root): Inverse of exponentiation (e.g., √16 = 4)
 
 Key points:
 
-- Operations transform quantities into new quantities
-- They follow specific rules and properties (e.g., commutative, associative)
-- Understanding operations is crucial for problem-solving and algebraic thinking
+-   Operations transform quantities into new quantities
+-   They follow specific rules and properties (e.g., commutative, associative)
+-   Understanding operations is crucial for problem-solving and algebraic thinking
 
 The study of quantities and operations forms the foundation for numerical literacy and mathematical reasoning. Students learn to identify and represent quantities, and then apply various operations to solve problems and explore mathematical relationships. This understanding is essential for developing more advanced mathematical concepts and for applying mathematics in real-world situations.
 
 ## Sum and Difference
 
-- Definition and properties of addition and subtraction
-- Relationship between sum and difference
-- Commutative and associative properties of addition
-- Inverse relationship between addition and subtraction
+-   Definition and properties of addition and subtraction
+-   Relationship between sum and difference
+-   Commutative and associative properties of addition
+-   Inverse relationship between addition and subtraction
+
+![Image from CRA methods by the Mathematics Initiative at www.pattan.net](/img/cra-algebra-tiles-adding-integers.png){width=80%}
+
+![Image from CRA methods by the Mathematics Initiative at www.pattan.net](/img/cra-base-ten-blocks-place-value.png){width=80%}
+
+![Image from CRA methods by the Mathematics Initiative at www.pattan.net](/img/cra-chips-equivalent-fractions.png){width=80%}
+
+## Fractions
+
+Fraction tiles
+
+![](/img/fraction-tiles-1.jpeg)
+
+![](/img/fraction-tiles-2.jpeg)
+
+
 
 ## Product and Quotient
 
+
+#### Assessment of multiple skills: multiplication (product) with fractions (quotients)
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGQvs3fick&#x2F;aT-jGhjpLjRfTzAfzTiSIg&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGQvs3fick&#x2F;aT-jGhjpLjRfTzAfzTiSIg&#x2F;watch?utm_content=DAGQvs3fick&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Multiplying Fractions and Whole Numbers using Number Line Whiteboard </a> by Dr. Nathan Alexander
 
 ## Exponents and Roots
 
