@@ -24,16 +24,13 @@ Module: Quantity and Operations
 
 This module explores the mathematical concepts focusing on quantity and operations within the context of elementary mathematics. The module covers the historical development of arithmetic operations, introduces the Concrete-Representational-Abstract (CRA) approach to teaching mathematics, delves into the properties of basic arithmetic operations, and examines the relationships between different operations. By the end of this module, you will have a comprehensive understanding of quantity and operations to effectively deal with various mathematical representations.
 
-## Quantity and Operation
+# Quantity and Operations
 
-::: {.callout-note icon=false}
-
+::: {.callout-note icon="false"}
 ## Quantity
 
 A quantity is a property or characteristic that can be measured or counted. In mathematics, it refers to an amount that can be expressed as a number or a numerical value.
-
 :::
-
 
 Key points:
 
@@ -50,61 +47,51 @@ Examples:
 
 ------------------------------------------------------------------------
 
-### The primary operations
-
-::: {.callout-note icon=false}
-
+::: {.callout-note icon="false"}
 ## Operation
 
 An operation is a mathematical process or action performed on one or more quantities to produce a new quantity or result. It is a rule for combining mathematical objects or values.
-
 :::
 
 -   Operations transform quantities into new quantities
 -   They follow specific rules and properties (e.g., commutative, associative)
 -   Understanding operations is crucial for problem-solving and algebraic thinking
 
-::: {.callout-tip}
-## Addition (sum)
+::: callout-tip
+### Addition (sum)
 
-Combining two or more quantities
-(e.g., 5 + 3 = 8)
+Combining two or more quantities (e.g., 5 + 3 = 8)
 :::
 
-::: {.callout-tip}
-## Subtraction (difference)
+::: callout-tip
+### Subtraction (difference)
 
-Finding the difference between quantities
-(e.g., 10 - 4 = 6)
+Finding the difference between quantities (e.g., 10 - 4 = 6)
 :::
 
-::: {.callout-tip}
-## Multiplication (product)
+::: callout-tip
+### Multiplication (product)
 
-Repeated addition or scaling
-(e.g., 3 × 4 = 12)
+Repeated addition or scaling (e.g., 3 × 4 = 12)
 :::
 
-::: {.callout-tip}
-## Division (quotient)
+::: callout-tip
+### Division (quotient)
 
-Distributing a quantity into equal parts
-(e.g., 15 ÷ 3 = 5)
+Distributing a quantity into equal parts (e.g., 15 ÷ 3 = 5)
 :::
 
-::: {.callout-tip}
-## Exponentiation (exponent)
+::: callout-tip
+### Exponentiation (exponent)
 
-Repeated multiplication
-(e.g., 2³ = 8)
+Repeated multiplication (e.g., 2³ = 8)
 :::
 
-::: {.callout-tip}
-## Root extraction (root)
+::: callout-tip
+### Root extraction (root)
 
-Inverse of exponentiation
- (e.g., $\sqrt{16} = 4$)
-::: 
+Inverse of exponentiation (e.g., $\sqrt{16} = 4$)
+:::
 
 ## Concrete-Representational-Abstract (CRA)
 
@@ -132,6 +119,8 @@ The Concrete-Representational-Abstract (CRA) process is an instructional approac
 -   This includes numbers, variables, and mathematical symbols (+, -, x, ÷)
 -   Students apply their understanding to solve problems using standard algorithms
 
+![Image from CRA methods by the Mathematics Initiative at www.pattan.net](/img/mod03/cra-chips-equivalent-fractions.png){width="80%"}
+
 The CRA approach deepens mathematical understanding and help students internalize abstract concepts by first grounding them in concrete experiences.
 
 ------------------------------------------------------------------------
@@ -154,13 +143,11 @@ Depending on the grade of instruction, algebra tiles can be used as a concrete w
 
 # Product and Quotient
 
-Fraction tiles
+Fraction tiles provide a great way to review and extend students' understanding of the concepts of multiplication and division.
 
-![](/img/mod03/fraction-tiles-1.jpeg)
+![EDUC 315 fraction tiles](/img/mod03/fraction-tiles-1.jpeg)
 
-![](/img/mod03/fraction-tiles-2.jpeg)
-
-![Image from CRA methods by the Mathematics Initiative at www.pattan.net](/img/mod03/cra-chips-equivalent-fractions.png){width="80%"}
+![EDUC 315 fraction tiles](/img/mod03/fraction-tiles-2.jpeg)
 
 ### Assessing multiple skills
 
@@ -253,7 +240,30 @@ Incorporating history into your mathematics lessons provide an opportunity for i
 
 ## Ancestral mathematics
 
-![](/img/mod03/ancestral-mathematics.jpg){width="50%"}
+![Ancestral mathematics activity by Dr. Nathan Alexander. Adapted from 'Ancestral Mathematics' meme.](/img/mod03/ancestral-mathematics.jpg){width="50%"}
 
 Using the image above as a sample, outline an *Ancestral Mathematics* class activity and create or modify the worksheet to follow along with your activity.
+
+## Historical STEM Figures
+
+This module closes with the identification of a historical figure in STEM.
+
+### Objective
+
+Research a historical STEM figure and create engaging content to showcase their contributions. The historical figure should showcase the growing diversity of a host of identities, cultures, and backgrounds represented in STEM.
+
+### Procedures
+
+- *Museum visit* (75 minutes): Smithsonian Museum exhibit. Please take notes on interesting STEM figures and exhibits.
+
+- *Figure selection and background research*: Choose a historical STEM figure based on museum inspiration. Conduct additional research using archival resources and online databases.
+
+- *Content creation*: Students create content about their chosen figure in one of the following formats: Detailed video presentation (e.g., Tiktoc), Visual infographic (e.g., Canva), Interactive digital timeline, Podcast-like episode, Digital exhibit
+
+- *Peer review*: Students your work with classmates for feedback. Make final adjustments based on peer feedback.
+
+- *Presentation* (5 minutes): Develop a 5-minute presentation in the style that you would present it to your student. Present finished content to the class as if you were in front of your future students.
+
+![](/img/mod03/historical-figures.png)
+
 
