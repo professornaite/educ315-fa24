@@ -294,18 +294,11 @@
     "text": "Module Overview\nThis module explores the mathematical concepts focusing on quantity and operations within the context of elementary mathematics. The module covers the historical development of arithmetic operations, introduces the Concrete-Representational-Abstract (CRA) approach to teaching mathematics, delves into the properties of basic arithmetic operations, and examines the relationships between different operations. By the end of this module, you will have a comprehensive understanding of quantity and operations to effectively deal with various mathematical representations."
   },
   {
-    "objectID": "modules/module03-slides.html#quantity-and-operation",
-    "href": "modules/module03-slides.html#quantity-and-operation",
-    "title": "Module 3: Quantity and Operations",
-    "section": "Quantity and Operation",
-    "text": "Quantity and Operation\n\n\n\nQuantity\n\n\nA quantity is a property or characteristic that can be measured or counted. In mathematics, it refers to an amount that can be expressed as a number or a numerical value.\n\n\n\nKey points:\n\nQuantities can be discrete (countable) or continuous (measurable)\nQuantities are often associated with units of measurement\nQuantities form the basis for mathematical operations and comparisons\n\nExamples:\n\nThe number of apples in a basket (discrete quantity)\nThe volume of water in a container (continuous quantity)\nThe temperature of a room (measurable quantity)\nThe speed of a car (derived quantity)"
-  },
-  {
     "objectID": "modules/module03-slides.html#concrete-representational-abstract-cra",
     "href": "modules/module03-slides.html#concrete-representational-abstract-cra",
     "title": "Module 3: Quantity and Operations",
     "section": "Concrete-Representational-Abstract (CRA)",
-    "text": "Concrete-Representational-Abstract (CRA)\nThe Concrete-Representational-Abstract (CRA) process is an instructional approach in mathematics that helps students develop a deeper understanding of mathematical concepts by progressing through three stages:\n\nConcrete Stage:\n\n\nStudents use physical, hands-on objects to model mathematical concepts\nExamples include base-10 blocks, counters, fraction bars, or algebra tiles\nThis stage allows students to manipulate tangible objects to solve problems\n\n\n\n\nImage from CRA methods by the Mathematics Initiative at www.pattan.net\n\n\n\nRepresentational (or Pictorial) Stage:\n\n\nStudents transition to using visual representations of the concrete objects\nThis may involve drawings, diagrams, or other pictorial models\nExamples include number lines, bar models, or sketches of manipulatives\n\n\n\n\nImage from CRA methods by the Mathematics Initiative at www.pattan.net\n\n\n\nAbstract Stage:\n\n\nStudents work with abstract symbols and notation\nThis includes numbers, variables, and mathematical symbols (+, -, x, ÷)\nStudents apply their understanding to solve problems using standard algorithms\n\nThe CRA approach deepens mathematical understanding and help students internalize abstract concepts by first grounding them in concrete experiences."
+    "text": "Concrete-Representational-Abstract (CRA)\nThe Concrete-Representational-Abstract (CRA) process is an instructional approach in mathematics that helps students develop a deeper understanding of mathematical concepts by progressing through three stages:\n\nConcrete Stage:\n\n\nStudents use physical, hands-on objects to model mathematical concepts\nExamples include base-10 blocks, counters, fraction bars, or algebra tiles\nThis stage allows students to manipulate tangible objects to solve problems\n\n\n\n\nImage from CRA methods by the Mathematics Initiative at www.pattan.net\n\n\n\nRepresentational (or Pictorial) Stage:\n\n\nStudents transition to using visual representations of the concrete objects\nThis may involve drawings, diagrams, or other pictorial models\nExamples include number lines, bar models, or sketches of manipulatives\n\n\n\n\nImage from CRA methods by the Mathematics Initiative at www.pattan.net\n\n\n\nAbstract Stage:\n\n\nStudents work with abstract symbols and notation\nThis includes numbers, variables, and mathematical symbols (+, -, x, ÷)\nStudents apply their understanding to solve problems using standard algorithms\n\n\n\n\nImage from CRA methods by the Mathematics Initiative at www.pattan.net\n\n\nThe CRA approach deepens mathematical understanding and help students internalize abstract concepts by first grounding them in concrete experiences."
   },
   {
     "objectID": "modules/module03-slides.html#algebra-tiles",
@@ -333,7 +326,14 @@
     "href": "modules/module03-slides.html#ancestral-mathematics",
     "title": "Module 3: Quantity and Operations",
     "section": "Ancestral mathematics",
-    "text": "Ancestral mathematics\n\nUsing the image above as a sample, outline an Ancestral Mathematics class activity and create or modify the worksheet to follow along with your activity.\n\n\n\nCourse Data GitHub"
+    "text": "Ancestral mathematics\n\nAncestral mathematics activity by Dr. Nathan Alexander. Adapted from ‘Ancestral Mathematics’ meme.Using the image above as a sample, outline an Ancestral Mathematics class activity and create or modify the worksheet to follow along with your activity."
+  },
+  {
+    "objectID": "modules/module03-slides.html#historical-stem-figures",
+    "href": "modules/module03-slides.html#historical-stem-figures",
+    "title": "Module 3: Quantity and Operations",
+    "section": "Historical STEM Figures",
+    "text": "Historical STEM Figures\nThis module closes with the identification of a historical figure in STEM.\nObjective\nResearch a historical STEM figure and create engaging content to showcase their contributions. The historical figure should showcase the growing diversity of a host of identities, cultures, and backgrounds represented in STEM.\nProcedures\n\nMuseum visit (75 minutes): Smithsonian Museum exhibit. Please take notes on interesting STEM figures and exhibits.\nFigure selection and background research: Choose a historical STEM figure based on museum inspiration. Conduct additional research using archival resources and online databases.\nContent creation: Students create content about their chosen figure in one of the following formats: Detailed video presentation (e.g., Tiktoc), Visual infographic (e.g., Canva), Interactive digital timeline, Podcast-like episode, Digital exhibit\nPeer review: Students your work with classmates for feedback. Make final adjustments based on peer feedback.\nPresentation (5 minutes): Develop a 5-minute presentation in the style that you would present it to your student. Present finished content to the class as if you were in front of your future students.\n\n\n\n\nImage from rif.org\n\n\n\n\n\nCourse Data GitHub"
   },
   {
     "objectID": "modules/module03.html",
@@ -348,13 +348,6 @@
     "title": "Module 3: Quantity and Operations",
     "section": "Module Overview",
     "text": "Module Overview\nThis module explores the mathematical concepts focusing on quantity and operations within the context of elementary mathematics. The module covers the historical development of arithmetic operations, introduces the Concrete-Representational-Abstract (CRA) approach to teaching mathematics, delves into the properties of basic arithmetic operations, and examines the relationships between different operations. By the end of this module, you will have a comprehensive understanding of quantity and operations to effectively deal with various mathematical representations."
-  },
-  {
-    "objectID": "modules/module03.html#quantity-and-operation",
-    "href": "modules/module03.html#quantity-and-operation",
-    "title": "Module 3: Quantity and Operations",
-    "section": "Quantity and Operation",
-    "text": "Quantity and Operation\n\n\n\n\n\n\nQuantity\n\n\n\nA quantity is a property or characteristic that can be measured or counted. In mathematics, it refers to an amount that can be expressed as a number or a numerical value.\n\n\nKey points:\n\nQuantities can be discrete (countable) or continuous (measurable)\nQuantities are often associated with units of measurement\nQuantities form the basis for mathematical operations and comparisons\n\nExamples:\n\nThe number of apples in a basket (discrete quantity)\nThe volume of water in a container (continuous quantity)\nThe temperature of a room (measurable quantity)\nThe speed of a car (derived quantity)\n\n\n\nThe primary operations\n\n\n\n\n\n\nOperation\n\n\n\nAn operation is a mathematical process or action performed on one or more quantities to produce a new quantity or result. It is a rule for combining mathematical objects or values.\n\n\n\nOperations transform quantities into new quantities\nThey follow specific rules and properties (e.g., commutative, associative)\nUnderstanding operations is crucial for problem-solving and algebraic thinking\n\n\n\n\n\n\n\nAddition (sum)\n\n\n\nCombining two or more quantities (e.g., 5 + 3 = 8)\n\n\n\n\n\n\n\n\nSubtraction (difference)\n\n\n\nFinding the difference between quantities (e.g., 10 - 4 = 6)\n\n\n\n\n\n\n\n\nMultiplication (product)\n\n\n\nRepeated addition or scaling (e.g., 3 × 4 = 12)\n\n\n\n\n\n\n\n\nDivision (quotient)\n\n\n\nDistributing a quantity into equal parts (e.g., 15 ÷ 3 = 5)\n\n\n\n\n\n\n\n\nExponentiation (exponent)\n\n\n\nRepeated multiplication (e.g., 2³ = 8)\n\n\n\n\n\n\n\n\nRoot extraction (root)\n\n\n\nInverse of exponentiation (e.g., \\(\\sqrt{16} = 4\\))"
   },
   {
     "objectID": "modules/module03.html#concrete-representational-abstract-cra",
@@ -392,6 +385,13 @@
     "text": "Ancestral mathematics\n\n\n\nAncestral mathematics activity by Dr. Nathan Alexander. Adapted from ‘Ancestral Mathematics’ meme.\n\n\nUsing the image above as a sample, outline an Ancestral Mathematics class activity and create or modify the worksheet to follow along with your activity."
   },
   {
+    "objectID": "modules/module03.html#historical-stem-figures",
+    "href": "modules/module03.html#historical-stem-figures",
+    "title": "Module 3: Quantity and Operations",
+    "section": "Historical STEM Figures",
+    "text": "Historical STEM Figures\nThis module closes with the identification of a historical figure in STEM.\n\nObjective\nResearch a historical STEM figure and create engaging content to showcase their contributions. The historical figure should showcase the growing diversity of a host of identities, cultures, and backgrounds represented in STEM.\n\n\nProcedures\n\nMuseum visit (75 minutes): Smithsonian Museum exhibit. Please take notes on interesting STEM figures and exhibits.\nFigure selection and background research: Choose a historical STEM figure based on museum inspiration. Conduct additional research using archival resources and online databases.\nContent creation: Students create content about their chosen figure in one of the following formats: Detailed video presentation (e.g., Tiktoc), Visual infographic (e.g., Canva), Interactive digital timeline, Podcast-like episode, Digital exhibit\nPeer review: Students your work with classmates for feedback. Make final adjustments based on peer feedback.\nPresentation (5 minutes): Develop a 5-minute presentation in the style that you would present it to your student. Present finished content to the class as if you were in front of your future students.\n\n\n\n\nImage from rif.org"
+  },
+  {
     "objectID": "standards/umoja.html",
     "href": "standards/umoja.html",
     "title": "Umoja",
@@ -404,26 +404,5 @@
     "title": "Common Core State Standards",
     "section": "",
     "text": "Text for this page was taken from osse.dc.gov:\nThe Common Core State Standards (CCSS) - Mathematics were adopted by the DC State Board of Education (July, 2010), as the K-12 Math Standards for the District of Columbia. Schools began a staged implementation of the standards during the 2011-12 school year. From 2011-2014, teachers received ongoing training in Common Core implementation, with full implementation occurring during the 2014-15 school year.\nThe CCSS-Mathematics demand a shift in math instruction from an emphasis on procedural fluency towards a balance between procedural fluency, conceptual understanding and application of concepts, so students are better prepared for the critical thinking necessary to succeed in college, careers and their daily lives. OSSE seeks to support high-quality implementation of the Common Core State Standards for Mathematics.\nFind more information by clicking here"
-  },
-  {
-    "objectID": "modules/module03.html#quantity-and-operations",
-    "href": "modules/module03.html#quantity-and-operations",
-    "title": "Module 3: Quantity and Operations",
-    "section": "Quantity and Operations",
-    "text": "Quantity and Operations\n\n\n\n\n\n\nQuantity\n\n\n\nA quantity is a property or characteristic that can be measured or counted. In mathematics, it refers to an amount that can be expressed as a number or a numerical value.\n\n\nKey points:\n\nQuantities can be discrete (countable) or continuous (measurable)\nQuantities are often associated with units of measurement\nQuantities form the basis for mathematical operations and comparisons\n\nExamples:\n\nThe number of apples in a basket (discrete quantity)\nThe volume of water in a container (continuous quantity)\nThe temperature of a room (measurable quantity)\nThe speed of a car (derived quantity)\n\n\n\nThe primary operations\n\n\n\n\n\n\nOperation\n\n\n\nAn operation is a mathematical process or action performed on one or more quantities to produce a new quantity or result. It is a rule for combining mathematical objects or values.\n\n\n\nOperations transform quantities into new quantities\nThey follow specific rules and properties (e.g., commutative, associative)\nUnderstanding operations is crucial for problem-solving and algebraic thinking\n\n\n\n\n\n\n\nAddition (sum)\n\n\n\nCombining two or more quantities (e.g., 5 + 3 = 8)\n\n\n\n\n\n\n\n\nSubtraction (difference)\n\n\n\nFinding the difference between quantities (e.g., 10 - 4 = 6)\n\n\n\n\n\n\n\n\nMultiplication (product)\n\n\n\nRepeated addition or scaling (e.g., 3 × 4 = 12)\n\n\n\n\n\n\n\n\nDivision (quotient)\n\n\n\nDistributing a quantity into equal parts (e.g., 15 ÷ 3 = 5)\n\n\n\n\n\n\n\n\nExponentiation (exponent)\n\n\n\nRepeated multiplication (e.g., 2³ = 8)\n\n\n\n\n\n\n\n\nRoot extraction (root)\n\n\n\nInverse of exponentiation (e.g., \\(\\sqrt{16} = 4\\))"
-  },
-  {
-    "objectID": "modules/module03-slides.html#quantity-and-operations",
-    "href": "modules/module03-slides.html#quantity-and-operations",
-    "title": "Module 3: Quantity and Operations",
-    "section": "Quantity and Operations",
-    "text": "Quantity and Operations\n\n\n\nQuantity\n\n\nA quantity is a property or characteristic that can be measured or counted. In mathematics, it refers to an amount that can be expressed as a number or a numerical value.\n\n\n\nKey points:\n\nQuantities can be discrete (countable) or continuous (measurable)\nQuantities are often associated with units of measurement\nQuantities form the basis for mathematical operations and comparisons\n\nExamples:\n\nThe number of apples in a basket (discrete quantity)\nThe volume of water in a container (continuous quantity)\nThe temperature of a room (measurable quantity)\nThe speed of a car (derived quantity)"
-  },
-  {
-    "objectID": "modules/module03.html#historical-stem-figures",
-    "href": "modules/module03.html#historical-stem-figures",
-    "title": "Module 3: Quantity and Operations",
-    "section": "Historical STEM Figures",
-    "text": "Historical STEM Figures\nThis module closes with the identification of a historical figure in STEM.\n\nObjective\nResearch a historical STEM figure and create engaging content to showcase their contributions. The historical figure should showcase the growing diversity of a host of identities, cultures, and backgrounds represented in STEM.\n\n\nProcedures\n\nMuseum visit (75 minutes): Smithsonian Museum exhibit. Please take notes on interesting STEM figures and exhibits.\nFigure selection and background research: Choose a historical STEM figure based on museum inspiration. Conduct additional research using archival resources and online databases.\nContent creation: Students create content about their chosen figure in one of the following formats: Detailed video presentation (e.g., Tiktoc), Visual infographic (e.g., Canva), Interactive digital timeline, Podcast-like episode, Digital exhibit\nPeer review: Students your work with classmates for feedback. Make final adjustments based on peer feedback.\nPresentation (5 minutes): Develop a 5-minute presentation in the style that you would present it to your student. Present finished content to the class as if you were in front of your future students."
   }
 ]
