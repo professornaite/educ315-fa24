@@ -26,7 +26,14 @@ This module explores the mathematical concepts focusing on quantity and operatio
 
 ## Quantity and Operation
 
-**Quantity**: A quantity is a property or characteristic that can be measured or counted. In mathematics, it refers to an amount that can be expressed as a number or a numerical value.
+::: {.callout-note icon=false}
+
+## Quantity
+
+A quantity is a property or characteristic that can be measured or counted. In mathematics, it refers to an amount that can be expressed as a number or a numerical value.
+
+:::
+
 
 Key points:
 
@@ -43,25 +50,61 @@ Examples:
 
 ------------------------------------------------------------------------
 
-### The primary operations:
+### The primary operations
 
-**Operation**: An operation is a mathematical process or action performed on one or more quantities to produce a new quantity or result. It is a rule for combining mathematical objects or values.
+::: {.callout-note icon=false}
+
+## Operation
+
+An operation is a mathematical process or action performed on one or more quantities to produce a new quantity or result. It is a rule for combining mathematical objects or values.
+
+:::
 
 -   Operations transform quantities into new quantities
 -   They follow specific rules and properties (e.g., commutative, associative)
 -   Understanding operations is crucial for problem-solving and algebraic thinking
 
-**Addition** (sum): Combining two or more quantities (e.g., 5 + 3 = 8)
+::: {.callout-tip}
+## Addition (sum)
 
-**Subtraction** (difference): Finding the difference between quantities (e.g., 10 - 4 = 6)
+Combining two or more quantities
+(e.g., 5 + 3 = 8)
+:::
 
-**Multiplication** (product): Repeated addition or scaling (e.g., 3 × 4 = 12)
+::: {.callout-tip}
+## Subtraction (difference)
 
-**Division** (quotient): Distributing a quantity into equal parts (e.g., 15 ÷ 3 = 5)
+Finding the difference between quantities
+(e.g., 10 - 4 = 6)
+:::
 
-**Exponentiation** (exponent): Repeated multiplication (e.g., 2³ = 8)
+::: {.callout-tip}
+## Multiplication (product)
 
-**Root** extraction (root): Inverse of exponentiation (e.g., √16 = 4)
+Repeated addition or scaling
+(e.g., 3 × 4 = 12)
+:::
+
+::: {.callout-tip}
+## Division (quotient)
+
+Distributing a quantity into equal parts
+(e.g., 15 ÷ 3 = 5)
+:::
+
+::: {.callout-tip}
+## Exponentiation (exponent)
+
+Repeated multiplication
+(e.g., 2³ = 8)
+:::
+
+::: {.callout-tip}
+## Root extraction (root)
+
+Inverse of exponentiation
+ (e.g., $\sqrt{16} = 4$)
+::: 
 
 ## Concrete-Representational-Abstract (CRA)
 
@@ -152,11 +195,9 @@ These patterns helps students visualize the quantity of exponents but we want to
 Base ten blocks work well for teaching powers of 10:
 
 -   A unit cube represents $10^0 = (1)$
--   A rod represents $10^1 = = 10 = (10)$
+-   A rod represents $10^1 = 10 = (10)$
 -   A flat represents $10^2 = 10 x 10 = (100)$
--   A large cube represents $10^3 = = 10 x 10 x 10 = (1000)$
-
-Students can physically stack the blocks to see how each power of 10 is 10 times larger than the previous.
+-   A large cube represents $10^3 = 10 x 10 x 10 = (1000)$
 
 **Grid Paper**
 
