@@ -41,7 +41,7 @@ Examples:
 -   The temperature of a room (measurable quantity)
 -   The speed of a car (derived quantity)
 
----
+------------------------------------------------------------------------
 
 ### The primary operations:
 
@@ -63,7 +63,6 @@ Examples:
 
 **Root** extraction (root): Inverse of exponentiation (e.g., √16 = 4)
 
-
 ## Concrete-Representational-Abstract (CRA)
 
 The Concrete-Representational-Abstract (CRA) process is an instructional approach in mathematics that helps students develop a deeper understanding of mathematical concepts by progressing through three stages:
@@ -75,7 +74,6 @@ The Concrete-Representational-Abstract (CRA) process is an instructional approac
 -   This stage allows students to manipulate tangible objects to solve problems
 
 ![Image from CRA methods by the Mathematics Initiative at www.pattan.net](/img/mod03/cra-algebra-tiles-adding-integers.png){width="80%"}
-
 
 2.  **Representational** (or Pictorial) Stage:
 
@@ -93,7 +91,7 @@ The Concrete-Representational-Abstract (CRA) process is an instructional approac
 
 The CRA approach deepens mathematical understanding and help students internalize abstract concepts by first grounding them in concrete experiences.
 
----
+------------------------------------------------------------------------
 
 # Sum and Difference
 
@@ -105,13 +103,11 @@ Depending on the grade of instruction, algebra tiles can be used as a concrete w
 
 ![Zero-sum representation. From calculate.org.au](/img/mod03/algebra-tile-1.png)
 
-
 ![Modeling integers. From calculate.org.au](/img/mod03/algebra-tile-2.png)
-
 
 ![Addition and subtraction of integers. From calculate.org.au](/img/mod03/algebra-tile-3.png)
 
----
+------------------------------------------------------------------------
 
 # Product and Quotient
 
@@ -129,7 +125,7 @@ Multiplication (product) with fractions (quotients)
 
 ![](/img/mod03/multiplying-fractions.jpg)
 
----
+------------------------------------------------------------------------
 
 # Exponents and Roots
 
@@ -170,6 +166,8 @@ Grid paper allows students to draw squares and rectangles to represent exponents
 -   A $3x3$ square represents $3^2$
 -   A $2x2x2$ cube represents $2^3$
 
+![](/img/mod03/grid-paper.jpg)
+
 Draw the squares representing $2^4$ and $3^4$.
 
 ## Teaching Roots
@@ -204,7 +202,7 @@ This helps students understand square roots as numbers between integers.
 
 We can use manipulatives to build conceptual understanding before moving to procedures. Allow students to explore and discover patterns through hands-on activities. Gradually connect the concrete models to symbolic notation as students gain understanding.
 
----
+------------------------------------------------------------------------
 
 # STEM figures and history
 
