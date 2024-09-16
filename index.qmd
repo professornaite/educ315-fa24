@@ -7,19 +7,19 @@ The pages on this site outline the technical components of **EDUC 315: Principle
 
 ::: column-screen-inset-right
 | Week |   Day   |           Module           | Topics                                                                                                  |
-|:------------:|:------------:|:------------:|-----------------------------|
-|  1   | Aug 19  | [1](modules/module01.html) | Introductions; What do we mean by ‘zero’, $0$?                                                          |
-|      | Aug 21  | [1](modules/module01.html) | What do we mean by ‘infinity’, $\infty$?; Syllabus review                                               |
+|:--------------:|:--------------:|:--------------:|--------------------------|
+|  1   | [Aug 19](modules/module01.html)  | [1](modules/module01.html) | Introductions; What do we mean by ‘zero’, $0$?                                                          |
+|      | [Aug 21](modules/module01.html)  | [1](modules/module01.html) | What do we mean by ‘infinity’, $\infty$?; Syllabus review                                               |
 |      |         |                            |                                                                                                         |
-|  2   | Aug 26  | [2](modules/module02.html) | Natural ($\mathbb{N}$) and whole ($\mathbb{N_0}$) numbers; What should we mean by the term ‘urban’?     |
-|      | Aug 28  | [2](modules/module02.html) | Integers ($\mathbb{Z}$), Rational ($\mathbb{Q}$), irrational; What is ‘rigor’ and rigorous mathematics? |
+|  2   | [Aug 26](modules/module02.html)  | [2](modules/module02.html) | Natural ($\mathbb{N}$) and whole ($\mathbb{N_0}$) numbers; What should we mean by the term ‘urban’?     |
+|      | [Aug 28](modules/module02.html)  | [2](modules/module02.html) | Integers ($\mathbb{Z}$), Rational ($\mathbb{Q}$), irrational; What is ‘rigor’ and rigorous mathematics? |
 |  3   | Sept 2  |                            | University closed: Labor Day                                                                            |
-|      | Sept 4  | [2](modules/module02.html) | Teaching numbers, fractions, and decimals                                                               |
+|      | [Sept 4](modules/module02.html)  | [2](modules/module02.html) | Teaching numbers, fractions, and decimals                                                               |
 |      |         |                            |                                                                                                         |
-|  4   | Sept 9  |             [3](modules/module03.html)              | Sum, Difference; Teaching diverse students                                                              |
-|      | Sept 11 |             3              | Product, Quotient; Teaching operations                                                                  |
-|  5   | Sept 16 |             3              | Exponent and root; Ancestral mathematics activity                                                       |
-|      | Sept 18 |             3              | **Excursion 1**: National Portrait Gallery; Historical figures in STEM                                  |
+|  4   | [Sept 9](modules/module03.html#sum-and-difference.html)  | [3](modules/module03.html#sum-and-difference.html) | Sum, Difference; Teaching diverse students                                                              |
+|      | [Sept 11](modules/module03.html#product-and-quotient.html) |             [3](modules/module03.html#product-and-quotient.html)              | Product, Quotient; Teaching operations                                                                  |
+|  5   | [Sept 16](modules/module03.html#exponents-and-roots.html) |             [3](modules/module03.html#exponents-and-roots.html)              | Exponent and root; Ancestral mathematics activity                                                       |
+|      | [Sept 18](modules/module03.html#ancestral-mathematics.html) |             [3](modules/module03.html#ancestral-mathematics.html)              | **Excursion 1**: National Portrait Gallery; Historical figures in STEM                                  |
 |      |         |                            |                                                                                                         |
 |  6   | Sept 23 |             4              | Commutative property; Mathematics teaching in grades 4-6, part 1                                        |
 |      | Sept 25 |             4              | Associative property; Mathematics teaching in grades 4-6, part 2                                        |

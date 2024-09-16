@@ -298,42 +298,35 @@
     "href": "modules/module03-slides.html#quantity-and-operation",
     "title": "Module 3: Quantity and Operations",
     "section": "Quantity and Operation",
-    "text": "Quantity and Operation\nQuantity: A quantity is a property or characteristic that can be measured or counted. In mathematics, it refers to an amount that can be expressed as a number or a numerical value.\nExamples:\n\nThe number of apples in a basket (discrete quantity)\nThe volume of water in a container (continuous quantity)\nThe temperature of a room (measurable quantity)\nThe speed of a car (derived quantity)\n\nKey points:\n\nQuantities can be discrete (countable) or continuous (measurable)\nThey are often associated with units of measurement\nQuantities form the basis for mathematical operations and comparisons\n\nOperation: An operation is a mathematical process or action performed on one or more quantities to produce a new quantity or result. It is a rule for combining mathematical objects or values.\nExamples:\n\nAddition (sum): Combining two or more quantities (e.g., 5 + 3 = 8)\nSubtraction (difference): Finding the difference between quantities (e.g., 10 - 4 = 6)\nMultiplication (product): Repeated addition or scaling (e.g., 3 × 4 = 12)\nDivision (quotient): Distributing a quantity into equal parts (e.g., 15 ÷ 3 = 5)\nExponentiation (exponent): Repeated multiplication (e.g., 2³ = 8)\nRoot extraction (root): Inverse of exponentiation (e.g., √16 = 4)\n\nKey points:\n\nOperations transform quantities into new quantities\nThey follow specific rules and properties (e.g., commutative, associative)\nUnderstanding operations is crucial for problem-solving and algebraic thinking\n\nThe study of quantities and operations forms the foundation for numerical literacy and mathematical reasoning. Students learn to identify and represent quantities, and then apply various operations to solve problems and explore mathematical relationships. This understanding is essential for developing more advanced mathematical concepts and for applying mathematics in real-world situations."
+    "text": "Quantity and Operation\nQuantity: A quantity is a property or characteristic that can be measured or counted. In mathematics, it refers to an amount that can be expressed as a number or a numerical value.\nExamples:\n\nThe number of apples in a basket (discrete quantity)\nThe volume of water in a container (continuous quantity)\nThe temperature of a room (measurable quantity)\nThe speed of a car (derived quantity)\n\nKey points:\n\nQuantities can be discrete (countable) or continuous (measurable)\nQuantities are often associated with units of measurement\nQuantities form the basis for mathematical operations and comparisons\n\nOperation: An operation is a mathematical process or action performed on one or more quantities to produce a new quantity or result. It is a rule for combining mathematical objects or values.\n\nOperations transform quantities into new quantities\nThey follow specific rules and properties (e.g., commutative, associative)\nUnderstanding operations is crucial for problem-solving and algebraic thinking\n\nThe primary operations:\nAddition (sum): Combining two or more quantities (e.g., 5 + 3 = 8)\nSubtraction (difference): Finding the difference between quantities (e.g., 10 - 4 = 6)\nMultiplication (product): Repeated addition or scaling (e.g., 3 × 4 = 12)\nDivision (quotient): Distributing a quantity into equal parts (e.g., 15 ÷ 3 = 5)\nExponentiation (exponent): Repeated multiplication (e.g., 2³ = 8)\nRoot extraction (root): Inverse of exponentiation (e.g., √16 = 4)"
   },
   {
-    "objectID": "modules/module03-slides.html#sum-and-difference",
-    "href": "modules/module03-slides.html#sum-and-difference",
+    "objectID": "modules/module03-slides.html#concreate-representational-abstract-cra",
+    "href": "modules/module03-slides.html#concreate-representational-abstract-cra",
     "title": "Module 3: Quantity and Operations",
-    "section": "Sum and Difference",
-    "text": "Sum and Difference\n\nDefinition and properties of addition and subtraction\nRelationship between sum and difference\nCommutative and associative properties of addition\nInverse relationship between addition and subtraction\n\n\n\n\nImage from CRA methods by the Mathematics Initiative at www.pattan.net\n\n\n\n\n\nImage from CRA methods by the Mathematics Initiative at www.pattan.net\n\n\n\n\n\nImage from CRA methods by the Mathematics Initiative at www.pattan.net"
+    "section": "Concreate-Representational-Abstract (CRA)",
+    "text": "Concreate-Representational-Abstract (CRA)\nThe Concrete-Representational-Abstract (CRA) process is an instructional approach in mathematics that helps students develop a deeper understanding of mathematical concepts by progressing through three stages:\n\nConcrete Stage:\n\n\nStudents use physical, hands-on objects to model mathematical concepts\nExamples include base-10 blocks, counters, fraction bars, or algebra tiles\nThis stage allows students to manipulate tangible objects to solve problems\n\n\nRepresentational (or Pictorial) Stage:\n\n\nStudents transition to using visual representations of the concrete objects\nThis may involve drawings, diagrams, or other pictorial models\nExamples include number lines, bar models, or sketches of manipulatives\n\n\nAbstract Stage:\n\n\nStudents work with abstract symbols and notation\nThis includes numbers, variables, and mathematical symbols (+, -, x, ÷)\nStudents apply their understanding to solve problems using standard algorithms\n\nThe CRA approach aims to deepen mathematical understanding, improve problem-solving skills, and help students internalize abstract concepts by first grounding them in concrete experiences."
   },
   {
-    "objectID": "modules/module03-slides.html#fractions",
-    "href": "modules/module03-slides.html#fractions",
+    "objectID": "modules/module03-slides.html#teaching-exponents",
+    "href": "modules/module03-slides.html#teaching-exponents",
     "title": "Module 3: Quantity and Operations",
-    "section": "Fractions",
-    "text": "Fractions\nFraction tiles"
+    "section": "Teaching Exponents",
+    "text": "Teaching Exponents\nPattern Blocks\nPattern blocks can be used to visually demonstrate exponents. For example:\n\nUse one triangle to represent \\(x\\)\nTwo triangles together represent \\(x^2\\)\nThree triangles stacked represent \\(x^3\\)\n\nThis helps students visualize exponents as repeated multiplication.\nBase Ten Blocks\nBase ten blocks work well for teaching powers of 10:\n\nA unit cube represents \\(10^0 = (1)\\)\nA rod represents \\(10^1 = (10)\\)\nA flat represents \\(10^2 = (100)\\)\nA large cube represents \\(10^3 = (1000)\\)\n\nStudents can physically stack the blocks to see how each power of 10 is 10 times larger than the previous.\nGrid Paper\nGrid paper allows students to draw squares and rectangles to represent exponents:\n\nA \\(2x2\\) square represents \\(2^2\\)\nA \\(3x3\\) square represents \\(3^2\\)\nA \\(2x2x2\\) cube represents \\(2^3\\)"
   },
   {
-    "objectID": "modules/module03-slides.html#product-and-quotient",
-    "href": "modules/module03-slides.html#product-and-quotient",
+    "objectID": "modules/module03-slides.html#teaching-roots",
+    "href": "modules/module03-slides.html#teaching-roots",
     "title": "Module 3: Quantity and Operations",
-    "section": "Product and Quotient",
-    "text": "Product and Quotient\nAssessment of multiple skills: multiplication (product) with fractions (quotients)\n\n \n\nMultiplying Fractions and Whole Numbers using Number Line Whiteboard  by Dr. Nathan Alexander"
+    "section": "Teaching Roots",
+    "text": "Teaching Roots\nAlgebra Tiles\nAlgebra tiles are excellent for teaching square roots:\n\nUse square tiles to build perfect square numbers (1, 4, 9, 16, etc.)\nThe side length of the square represents the square root\n\nFor example, a 3x3 square of tiles has an area of 9, so the square root of 9 is 3.\nGrid Paper\nGrid paper can be used to estimate non-perfect square roots:\n\nDraw a square with the given area (e.g. 17)\nCount the side length to estimate the square root\nRefine by adding partial squares\n\nThis provides a visual model for estimating irrational square roots.\nNumber Lines\nUse a number line to place square roots between perfect squares:\n\nMark perfect squares (1, 4, 9, 16, 25, etc.)\nEstimate locations of other square roots between them\n\nThis helps students understand square roots as numbers between integers.\nWe can use manipulatives to build conceptual understanding before moving to procedures. Allow students to explore and discover patterns through hands-on activities. Gradually connect the concrete models to symbolic notation as students gain understanding."
   },
   {
-    "objectID": "modules/module03-slides.html#exponents-and-roots",
-    "href": "modules/module03-slides.html#exponents-and-roots",
+    "objectID": "modules/module03-slides.html#ancestral-mathematics",
+    "href": "modules/module03-slides.html#ancestral-mathematics",
     "title": "Module 3: Quantity and Operations",
-    "section": "Exponents and Roots",
-    "text": "Exponents and Roots"
-  },
-  {
-    "objectID": "modules/module03-slides.html#teaching-stem-figures-and-mathematical-concepts",
-    "href": "modules/module03-slides.html#teaching-stem-figures-and-mathematical-concepts",
-    "title": "Module 3: Quantity and Operations",
-    "section": "Teaching STEM Figures and mathematical concepts",
-    "text": "Teaching STEM Figures and mathematical concepts\nAncestral Mathematics activity\n\n \n\nAncestral Mathematics by Dr. Nathan Alexander\n\n\n\nCourse Data GitHub"
+    "section": "Ancestral mathematics",
+    "text": "Ancestral mathematics\n\n\n\n\nCourse Data GitHub"
   },
   {
     "objectID": "modules/module03.html",
@@ -355,62 +348,6 @@
     "title": "Module 3: Quantity and Operations",
     "section": "Quantity and Operation",
     "text": "Quantity and Operation\nQuantity: A quantity is a property or characteristic that can be measured or counted. In mathematics, it refers to an amount that can be expressed as a number or a numerical value.\nExamples:\n\nThe number of apples in a basket (discrete quantity)\nThe volume of water in a container (continuous quantity)\nThe temperature of a room (measurable quantity)\nThe speed of a car (derived quantity)\n\nKey points:\n\nQuantities can be discrete (countable) or continuous (measurable)\nQuantities are often associated with units of measurement\nQuantities form the basis for mathematical operations and comparisons\n\nOperation: An operation is a mathematical process or action performed on one or more quantities to produce a new quantity or result. It is a rule for combining mathematical objects or values.\n\nOperations transform quantities into new quantities\nThey follow specific rules and properties (e.g., commutative, associative)\nUnderstanding operations is crucial for problem-solving and algebraic thinking\n\n\nThe primary operations:\nAddition (sum): Combining two or more quantities (e.g., 5 + 3 = 8)\nSubtraction (difference): Finding the difference between quantities (e.g., 10 - 4 = 6)\nMultiplication (product): Repeated addition or scaling (e.g., 3 × 4 = 12)\nDivision (quotient): Distributing a quantity into equal parts (e.g., 15 ÷ 3 = 5)\nExponentiation (exponent): Repeated multiplication (e.g., 2³ = 8)\nRoot extraction (root): Inverse of exponentiation (e.g., √16 = 4)"
-  },
-  {
-    "objectID": "modules/module03.html#sum-and-difference",
-    "href": "modules/module03.html#sum-and-difference",
-    "title": "Module 3: Quantity and Operations",
-    "section": "Sum and Difference",
-    "text": "Sum and Difference\n\n\n\nImage from CRA methods by the Mathematics Initiative at www.pattan.net\n\n\n\nDefinition and properties of addition and subtraction\nRelationship between sum and difference\nCommutative and associative properties of addition\nInverse relationship between addition and subtraction\n\n\n\n\nImage from CRA methods by the Mathematics Initiative at www.pattan.net"
-  },
-  {
-    "objectID": "modules/module03.html#fractions",
-    "href": "modules/module03.html#fractions",
-    "title": "Module 3: Quantity and Operations",
-    "section": "Fractions",
-    "text": "Fractions\nFraction tiles"
-  },
-  {
-    "objectID": "modules/module03.html#product-and-quotient",
-    "href": "modules/module03.html#product-and-quotient",
-    "title": "Module 3: Quantity and Operations",
-    "section": "Product and Quotient",
-    "text": "Product and Quotient\nFraction tiles\n\n\n\n\n\nImage from CRA methods by the Mathematics Initiative at www.pattan.net\n\n\n\nAssessing multiple skills\nMultiplication (product) with fractions (quotients)"
-  },
-  {
-    "objectID": "modules/module03.html#exponents-and-roots",
-    "href": "modules/module03.html#exponents-and-roots",
-    "title": "Module 3: Quantity and Operations",
-    "section": "Exponents and Roots",
-    "text": "Exponents and Roots\nThere are many ways to teach exponents and roots:\n\nTeaching Exponents\nPattern Blocks\nPattern blocks can be used to visually demonstrate exponents. For example:\n\nUse one triangle to represent x\nTwo triangles together represent x^2\nThree triangles stacked represent x^3\n\nThis helps students visualize exponents as repeated multiplication.\nBase Ten Blocks\nBase ten blocks work well for teaching powers of 10:\n\nA unit cube represents 10^0 (1)\nA rod represents 10^1 (10)\nA flat represents 10^2 (100)\nA large cube represents 10^3 (1000)\n\nStudents can physically stack the blocks to see how each power of 10 is 10 times larger than the previous.\nGrid Paper\nGrid paper allows students to draw squares and rectangles to represent exponents:\n\nA 2x2 square represents 2^2\nA 3x3 square represents 3^2\nA 2x2x2 cube represents 2^3\n\nThis connects exponents to area and volume concepts.\n\n\nTeaching Roots\nAlgebra Tiles\nAlgebra tiles are excellent for teaching square roots:\n\nUse square tiles to build perfect square numbers (1, 4, 9, 16, etc.)\nThe side length of the square represents the square root\n\nFor example, a 3x3 square of tiles has an area of 9, so the square root of 9 is 3.\nGrid Paper\nGrid paper can be used to estimate non-perfect square roots:\n\nDraw a square with the given area (e.g. 17)\nCount the side length to estimate the square root\nRefine by adding partial squares\n\nThis provides a visual model for estimating irrational square roots.\nNumber Lines\nUse a number line to place square roots between perfect squares:\n\nMark perfect squares (1, 4, 9, 16, 25, etc.)\nEstimate locations of other square roots between them\n\nThis helps students understand square roots as numbers between integers.\nThe key is to use manipulatives to build conceptual understanding before moving to procedures. Allow students to explore and discover patterns through hands-on activities. Gradually connect the concrete models to symbolic notation as students gain understanding."
-  },
-  {
-    "objectID": "modules/module03.html#teaching-stem-figures-and-mathematical-concepts",
-    "href": "modules/module03.html#teaching-stem-figures-and-mathematical-concepts",
-    "title": "Module 3: Quantity and Operations",
-    "section": "Teaching STEM Figures and mathematical concepts",
-    "text": "Teaching STEM Figures and mathematical concepts\n\nAncestral Mathematics activity"
-  },
-  {
-    "objectID": "standards/umoja.html",
-    "href": "standards/umoja.html",
-    "title": "Umoja",
-    "section": "",
-    "text": "Text for this page was taken from umojacommunity.org:\nOur curriculum is the modality by which we deliver cultural and educational experiences that inspire self-actualization and academic excellence in Black students. Umoja’s curriculum begins with a holistic approach, bringing spirit, body, and cultural memory into the learning environments we cultivate for our students and community of practitioners. When students, faculty, and staff attend Umoja’s symposia, institutes, and conferences, they build communal intelligence around identity, culture, career growth, manifestation, and leadership. We draw from educators like bell hooks, Dr. Asa G. Hilliard, Dr. Bettina Love, and Dr. Wade Nobles to uplift the important role of culture, love, and justice in the Umoja classroom and program. We recommend aligning programs, coursework, field trips, etc. to at least one of the goals or objectives from Umoja’s Curriculum.\n Find more information by clicking here"
-  },
-  {
-    "objectID": "standards/common.html",
-    "href": "standards/common.html",
-    "title": "Common Core State Standards",
-    "section": "",
-    "text": "Text for this page was taken from osse.dc.gov:\nThe Common Core State Standards (CCSS) - Mathematics were adopted by the DC State Board of Education (July, 2010), as the K-12 Math Standards for the District of Columbia. Schools began a staged implementation of the standards during the 2011-12 school year. From 2011-2014, teachers received ongoing training in Common Core implementation, with full implementation occurring during the 2014-15 school year.\nThe CCSS-Mathematics demand a shift in math instruction from an emphasis on procedural fluency towards a balance between procedural fluency, conceptual understanding and application of concepts, so students are better prepared for the critical thinking necessary to succeed in college, careers and their daily lives. OSSE seeks to support high-quality implementation of the Common Core State Standards for Mathematics.\nFind more information by clicking here"
-  },
-  {
-    "objectID": "modules/module03.html#stem-figures-and-history",
-    "href": "modules/module03.html#stem-figures-and-history",
-    "title": "Module 3: Quantity and Operations",
-    "section": "STEM figures and history",
-    "text": "STEM figures and history\nIncorporating history into your mathematics lessons provide an opportunity for interdisciplinary learning, and it encourages students to see mathematics in action through real-world examples.\n\nAncestral Mathematics activity"
   },
   {
     "objectID": "modules/module03.html#concreate-representational-abstract-cra",
@@ -439,5 +376,19 @@
     "title": "Module 3: Quantity and Operations",
     "section": "Ancestral mathematics",
     "text": "Ancestral mathematics"
+  },
+  {
+    "objectID": "standards/umoja.html",
+    "href": "standards/umoja.html",
+    "title": "Umoja",
+    "section": "",
+    "text": "Text for this page was taken from umojacommunity.org:\nOur curriculum is the modality by which we deliver cultural and educational experiences that inspire self-actualization and academic excellence in Black students. Umoja’s curriculum begins with a holistic approach, bringing spirit, body, and cultural memory into the learning environments we cultivate for our students and community of practitioners. When students, faculty, and staff attend Umoja’s symposia, institutes, and conferences, they build communal intelligence around identity, culture, career growth, manifestation, and leadership. We draw from educators like bell hooks, Dr. Asa G. Hilliard, Dr. Bettina Love, and Dr. Wade Nobles to uplift the important role of culture, love, and justice in the Umoja classroom and program. We recommend aligning programs, coursework, field trips, etc. to at least one of the goals or objectives from Umoja’s Curriculum.\n Find more information by clicking here"
+  },
+  {
+    "objectID": "standards/common.html",
+    "href": "standards/common.html",
+    "title": "Common Core State Standards",
+    "section": "",
+    "text": "Text for this page was taken from osse.dc.gov:\nThe Common Core State Standards (CCSS) - Mathematics were adopted by the DC State Board of Education (July, 2010), as the K-12 Math Standards for the District of Columbia. Schools began a staged implementation of the standards during the 2011-12 school year. From 2011-2014, teachers received ongoing training in Common Core implementation, with full implementation occurring during the 2014-15 school year.\nThe CCSS-Mathematics demand a shift in math instruction from an emphasis on procedural fluency towards a balance between procedural fluency, conceptual understanding and application of concepts, so students are better prepared for the critical thinking necessary to succeed in college, careers and their daily lives. OSSE seeks to support high-quality implementation of the Common Core State Standards for Mathematics.\nFind more information by clicking here"
   }
 ]
