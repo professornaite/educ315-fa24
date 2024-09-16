@@ -9,7 +9,7 @@ format:
     output-file: module03-slides.html
     height: 900
     width: 1600
-    smaller: false
+    smaller: true
     slide-number: c/t #< collapsted/total
     logo: "img/howard-logo.jpg"
     footer: "[Course Data GitHub](https://github.com/educ315-fa24)"
@@ -61,23 +61,23 @@ Key points:
 
 **Root** extraction (root): Inverse of exponentiation (e.g., √16 = 4)
 
-## Concreate-Representational-Abstract (CRA)
+## Concrete-Representational-Abstract (CRA)
 
 The Concrete-Representational-Abstract (CRA) process is an instructional approach in mathematics that helps students develop a deeper understanding of mathematical concepts by progressing through three stages:
 
-1.  Concrete Stage:
+1.  **Concrete** Stage:
 
 -   Students use physical, hands-on objects to model mathematical concepts
 -   Examples include base-10 blocks, counters, fraction bars, or algebra tiles
 -   This stage allows students to manipulate tangible objects to solve problems
 
-2.  Representational (or Pictorial) Stage:
+2.  **Representational** (or Pictorial) Stage:
 
 -   Students transition to using visual representations of the concrete objects
 -   This may involve drawings, diagrams, or other pictorial models
 -   Examples include number lines, bar models, or sketches of manipulatives
 
-3.  Abstract Stage:
+3.  **Abstract** Stage:
 
 -   Students work with abstract symbols and notation
 -   This includes numbers, variables, and mathematical symbols (+, -, x, ÷)
@@ -87,17 +87,17 @@ The CRA approach aims to deepen mathematical understanding, improve problem-solv
 
 # Sum and Difference
 
-![Image from CRA methods by the Mathematics Initiative at www.pattan.net](/img/cra-algebra-tiles-adding-integers.png){width="80%"}
+![Image from CRA methods by the Mathematics Initiative at www.pattan.net](/img/mod03/cra-algebra-tiles-adding-integers.png){width="80%"}
 
-![Image from CRA methods by the Mathematics Initiative at www.pattan.net](/img/cra-base-ten-blocks-place-value.png){width="80%"}
+![Image from CRA methods by the Mathematics Initiative at www.pattan.net](/img/mod03/cra-base-ten-blocks-place-value.png){width="80%"}
 
 # Product and Quotient
 
 Fraction tiles
 
-![](/img/fraction-tiles-1.jpeg)
+![](/img/mod03/fraction-tiles-1.jpeg)
 
-![](/img/fraction-tiles-2.jpeg)
+![](/img/mod03/fraction-tiles-2.jpeg)
 
 ![Image from CRA methods by the Mathematics Initiative at www.pattan.net](/img/cra-chips-equivalent-fractions.png){width="80%"}
 
@@ -105,7 +105,7 @@ Fraction tiles
 
 Multiplication (product) with fractions (quotients)
 
-![](/img/multiplying-fractions.jpg)
+![](/img/mod03/multiplying-fractions.jpg)
 
 # Exponents and Roots
 
@@ -120,6 +120,8 @@ Pattern blocks can be used to visually demonstrate exponents. For example:
 -   Use one triangle to represent $x$
 -   Two triangles together represent $x^2$
 -   Three triangles stacked represent $x^3$
+
+![](/img/mod03/pattern-blocks.jpeg)
 
 This helps students visualize exponents as repeated multiplication.
 
@@ -180,4 +182,4 @@ Incorporating history into your mathematics lessons provide an opportunity for i
 
 ## Ancestral mathematics
 
-![](/img/ancestral-mathematics.jpg){width="50%"}
+![](/img/mod03/ancestral-mathematics.jpg){width="50%"}

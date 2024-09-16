@@ -9,7 +9,7 @@ format:
     output-file: module01-slides.html
     height: 900
     width: 1600
-    smaller: false
+    smaller: true
     slide-number: c/t #< collapsted/total
     logo: "img/howard-logo.jpg"
     footer: "[Course Data GitHub](https://github.com/educ315-fa24)"
