@@ -162,13 +162,13 @@ Students can physically stack the blocks to see how each power of 10 is 10 times
 
 Grid paper allows students to draw squares and rectangles to represent exponents:
 
--   A $2x2$ square represents $2^2$
--   A $3x3$ square represents $3^2$
--   A $2x2x2$ cube represents $2^3$
+-   A $2 x 2$ square represents $2^2$
+-   A $3 x 3$ square represents $3^2$
+-   A $2 x 2 x 2$ cube represents $2^3$
 
 ![](/img/mod03/grid-paper.jpg)
 
-Draw the squares representing $2^4$ and $3^4$.
+Draw the figures representing $3^3$ and $4^2$.
 
 ## Teaching Roots
 
@@ -191,6 +191,8 @@ Grid paper can be used to estimate non-perfect square roots:
 
 This provides a visual model for estimating irrational square roots.
 
+![](/img/mod03/square-root-number-line.jpg)
+
 **Number Lines**
 
 Use a number line to place square roots between perfect squares:
@@ -211,3 +213,6 @@ Incorporating history into your mathematics lessons provide an opportunity for i
 ## Ancestral mathematics
 
 ![](/img/mod03/ancestral-mathematics.jpg){width="50%"}
+
+Using the image above as a sample, outline an *Ancestral Mathematics* class activity and create or modify the worksheet to follow along with your activity.
+
