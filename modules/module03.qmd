@@ -28,6 +28,12 @@ This module explores the mathematical concepts focusing on quantity and operatio
 
 **Quantity**: A quantity is a property or characteristic that can be measured or counted. In mathematics, it refers to an amount that can be expressed as a number or a numerical value.
 
+Key points:
+
+-   Quantities can be discrete (countable) or continuous (measurable)
+-   Quantities are often associated with units of measurement
+-   Quantities form the basis for mathematical operations and comparisons
+
 Examples:
 
 -   The number of apples in a basket (discrete quantity)
@@ -35,19 +41,15 @@ Examples:
 -   The temperature of a room (measurable quantity)
 -   The speed of a car (derived quantity)
 
-Key points:
+---
 
--   Quantities can be discrete (countable) or continuous (measurable)
--   Quantities are often associated with units of measurement
--   Quantities form the basis for mathematical operations and comparisons
+### The primary operations:
 
 **Operation**: An operation is a mathematical process or action performed on one or more quantities to produce a new quantity or result. It is a rule for combining mathematical objects or values.
 
 -   Operations transform quantities into new quantities
 -   They follow specific rules and properties (e.g., commutative, associative)
 -   Understanding operations is crucial for problem-solving and algebraic thinking
-
-### The primary operations:
 
 **Addition** (sum): Combining two or more quantities (e.g., 5 + 3 = 8)
 
@@ -61,6 +63,7 @@ Key points:
 
 **Root** extraction (root): Inverse of exponentiation (e.g., √16 = 4)
 
+
 ## Concrete-Representational-Abstract (CRA)
 
 The Concrete-Representational-Abstract (CRA) process is an instructional approach in mathematics that helps students develop a deeper understanding of mathematical concepts by progressing through three stages:
@@ -71,11 +74,16 @@ The Concrete-Representational-Abstract (CRA) process is an instructional approac
 -   Examples include base-10 blocks, counters, fraction bars, or algebra tiles
 -   This stage allows students to manipulate tangible objects to solve problems
 
+![Image from CRA methods by the Mathematics Initiative at www.pattan.net](/img/mod03/cra-algebra-tiles-adding-integers.png){width="80%"}
+
+
 2.  **Representational** (or Pictorial) Stage:
 
 -   Students transition to using visual representations of the concrete objects
 -   This may involve drawings, diagrams, or other pictorial models
 -   Examples include number lines, bar models, or sketches of manipulatives
+
+![Image from CRA methods by the Mathematics Initiative at www.pattan.net](/img/mod03/cra-base-ten-blocks-place-value.png){width="80%"}
 
 3.  **Abstract** Stage:
 
@@ -83,13 +91,27 @@ The Concrete-Representational-Abstract (CRA) process is an instructional approac
 -   This includes numbers, variables, and mathematical symbols (+, -, x, ÷)
 -   Students apply their understanding to solve problems using standard algorithms
 
-The CRA approach aims to deepen mathematical understanding, improve problem-solving skills, and help students internalize abstract concepts by first grounding them in concrete experiences.
+The CRA approach deepens mathematical understanding and help students internalize abstract concepts by first grounding them in concrete experiences.
+
+---
 
 # Sum and Difference
 
-![Image from CRA methods by the Mathematics Initiative at www.pattan.net](/img/mod03/cra-algebra-tiles-adding-integers.png){width="80%"}
+## Algebra tiles
 
-![Image from CRA methods by the Mathematics Initiative at www.pattan.net](/img/mod03/cra-base-ten-blocks-place-value.png){width="80%"}
+Depending on the grade of instruction, algebra tiles can be used as a concrete way to express various operations, such as the sum and difference.
+
+![Introducing the tiles. From calculate.org.au](/img/mod03/algebra-tile-0.png)
+
+![Zero-sum representation. From calculate.org.au](/img/mod03/algebra-tile-1.png)
+
+
+![Modeling integers. From calculate.org.au](/img/mod03/algebra-tile-2.png)
+
+
+![Addition and subtraction of integers. From calculate.org.au](/img/mod03/algebra-tile-3.png)
+
+---
 
 # Product and Quotient
 
@@ -107,6 +129,8 @@ Multiplication (product) with fractions (quotients)
 
 ![](/img/mod03/multiplying-fractions.jpg)
 
+---
+
 # Exponents and Roots
 
 There are many ways to teach exponents and roots:
@@ -119,20 +143,22 @@ Pattern blocks can be used to visually demonstrate exponents. For example:
 
 -   Use one triangle to represent $1 \times 1$
 -   Four triangles together represent $2 \times 2$
--   Three triangles together represent $3 \times 3$
+-   Nine triangles together represent $3 \times 3$
 
 ![](/img/mod03/pattern-blocks.jpg)
 
-This helps students visualize exponents as repeated multiplication.
+Draw the pattern for $4 \times 4$ and $5 \times 5$.
+
+These patterns helps students visualize the quantity of exponents but we want to also show them representations of exponents as repeated multiplication; we can use base-ten blocks to extend their understanding.
 
 **Base Ten Blocks**
 
 Base ten blocks work well for teaching powers of 10:
 
 -   A unit cube represents $10^0 = (1)$
--   A rod represents $10^1 = (10)$
--   A flat represents $10^2 = (100)$
--   A large cube represents $10^3 = (1000)$
+-   A rod represents $10^1 = = 10 = (10)$
+-   A flat represents $10^2 = 10 x 10 = (100)$
+-   A large cube represents $10^3 = = 10 x 10 x 10 = (1000)$
 
 Students can physically stack the blocks to see how each power of 10 is 10 times larger than the previous.
 
@@ -144,16 +170,18 @@ Grid paper allows students to draw squares and rectangles to represent exponents
 -   A $3x3$ square represents $3^2$
 -   A $2x2x2$ cube represents $2^3$
 
+Draw the squares representing $2^4$ and $3^4$.
+
 ## Teaching Roots
 
 **Algebra Tiles**
 
-Algebra tiles are excellent for teaching square roots:
+Algebra tiles are also good for teaching square roots:
 
--   Use square tiles to build perfect square numbers (1, 4, 9, 16, etc.)
+-   Use the square tiles to build perfect square numbers (1, 4, 9, 16, etc.)
 -   The side length of the square represents the square root
 
-For example, a 3x3 square of tiles has an area of 9, so the square root of 9 is 3.
+For example, a $3x3$ square of tiles has an area of $9$, so the square root of $9$ is $3$.
 
 **Grid Paper**
 
@@ -175,6 +203,8 @@ Use a number line to place square roots between perfect squares:
 This helps students understand square roots as numbers between integers.
 
 We can use manipulatives to build conceptual understanding before moving to procedures. Allow students to explore and discover patterns through hands-on activities. Gradually connect the concrete models to symbolic notation as students gain understanding.
+
+---
 
 # STEM figures and history
 

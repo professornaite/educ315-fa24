@@ -6,42 +6,42 @@ subtitle: "Principles of Teaching Math and Science in Urban Classrooms II"
 The pages on this site outline the technical components of **EDUC 315: Principles of Teaching Math and Science in Urban Classrooms II** at Howard University, taught by [Professor Nathan Alexander](https://professornaite.github.io){target="_blank"}. This site will serve as a <u>*companion*</u> to our [Canvas site](https://canvas.howard.edu/courses/53402){target="_blank"} and support you with questions relevant to teaching STEM in grades 4-6 and your development of a pedagogical praxis for your future classroom.
 
 ::: column-screen-inset-right
-| Week |   Day   |           Module           | Topics                                                                                                  |
-|:--------------:|:--------------:|:--------------:|--------------------------|
-|  1   | [Aug 19](modules/module01.html)  | [1](modules/module01.html) | Introductions; What do we mean by ‘zero’, $0$?                                                          |
-|      | [Aug 21](modules/module01.html)  | [1](modules/module01.html) | What do we mean by ‘infinity’, $\infty$?; Syllabus review                                               |
-|      |         |                            |                                                                                                         |
-|  2   | [Aug 26](modules/module02.html)  | [2](modules/module02.html) | Natural ($\mathbb{N}$) and whole ($\mathbb{N_0}$) numbers; What should we mean by the term ‘urban’?     |
-|      | [Aug 28](modules/module02.html)  | [2](modules/module02.html) | Integers ($\mathbb{Z}$), Rational ($\mathbb{Q}$), irrational; What is ‘rigor’ and rigorous mathematics? |
-|  3   | Sept 2  |                            | University closed: Labor Day                                                                            |
-|      | [Sept 4](modules/module02.html)  | [2](modules/module02.html) | Teaching numbers, fractions, and decimals                                                               |
-|      |         |                            |                                                                                                         |
-|  4   | [Sept 9](modules/module03.html#sum-and-difference)  | [3](modules/module03.html#sum-and-difference) | Sum, Difference; Teaching diverse students                                                              |
-|      | [Sept 11](modules/module03.html#product-and-quotient) |             [3](modules/module03.html#product-and-quotient)              | Product, Quotient; Teaching operations                                                                  |
-|  5   | [Sept 16](modules/module03.html#exponents-and-roots) |             [3](modules/module03.html#exponents-and-roots)              | Exponent and root; Ancestral mathematics activity                                                       |
-|      | [Sept 18](modules/module03.html#stem-figures-and-history) |             [3](modules/module03.html#stem-figures-and-history)              | **Excursion 1**: National Portrait Gallery; Historical figures in STEM                                  |
-|      |         |                            |                                                                                                         |
-|  6   | Sept 23 |             4              | Commutative property; Mathematics teaching in grades 4-6, part 1                                        |
-|      | Sept 25 |             4              | Associative property; Mathematics teaching in grades 4-6, part 2                                        |
-|  7   | Sept 30 |             4              | Distributive property; Historical STEM figure presentations                                             |
-|      |  Oct 2  |             4              | Identity property; Historical STEM figure presentations                                                 |
-|      |         |                            |                                                                                                         |
-|  8   |  Oct 7  |             5              | Space, geometry, and shape; Teaching African American youth                                             |
-|      |  Oct 9  |             5              | Geometric proofs; Afrofuturism activities                                                               |
-|  9   | Oct 14  |                            | University closed: Mental Health Day                                                                    |
-|      | Oct 16  |             5              | Representations in mathematics; Lesson planning and assessment                                          |
-|      |         |                            |                                                                                                         |
-|  10  | Oct 21  |             6              | Patterns and sequences                                                                                  |
-|      | Oct 23  |             6              | **Excursion 2**: National Museum of African American History and Culture                                |
-|  11  | Oct 28  |             6              | Rates; Modeling the real-world                                                                          |
-|      | Oct 30  |             6              | Functions and variables; Introducing abstract concepts                                                  |
-|      |         |                            |                                                                                                         |
-|  12  |  Nov 4  |             7              | Steps of the Mathematical Method; modeling in grades 4-6                                                |
-|      |  Nov 6  |             7              | Developing a hypothesis; math stations (arithmetic, algebra, geometry)                                  |
-|  13  | Nov 11  |             7              | University closed: Veterans Day                                                                         |
-|      | Nov 13  |             7              | Types of mathematical data; statistical methods                                                         |
-|  14  | Nov 18  |             7              | Analyzing data from experiments; Drawing conclusions                                                    |
-|      | Nov 20  |             8              | Analyzing student data; Student data exercise                                                           |
-|  15  | Nov 25  |             8              | Student assessment                                                                                      |
-|      | Nov 27  |                            | Course closing and reflections                                                                          |
+| Week |                            Day                            |                       Module                        | Topics                                                                                                  |
+|:---------------:|:---------------:|:---------------:|-----------------------|
+|  1   |              [Aug 19](modules/module01.html)              |             [1](modules/module01.html)              | Introductions; What do we mean by ‘zero’, $0$?                                                          |
+|      |              [Aug 21](modules/module01.html)              |             [1](modules/module01.html)              | What do we mean by ‘infinity’, $\infty$?; Syllabus review                                               |
+|      |                                                           |                                                     |                                                                                                         |
+|  2   |              [Aug 26](modules/module02.html)              |             [2](modules/module02.html)              | Natural ($\mathbb{N}$) and whole ($\mathbb{N_0}$) numbers; What should we mean by the term ‘urban’?     |
+|      |              [Aug 28](modules/module02.html)              |             [2](modules/module02.html)              | Integers ($\mathbb{Z}$), Rational ($\mathbb{Q}$), irrational; What is ‘rigor’ and rigorous mathematics? |
+|  3   |                          Sept 2                           |                                                     | University closed: Labor Day                                                                            |
+|      |              [Sept 4](modules/module02.html)              |             [2](modules/module02.html)              | Teaching numbers, fractions, and decimals                                                               |
+|      |                                                           |                                                     |                                                                                                         |
+|  4   |    [Sept 9](modules/module03.html#sum-and-difference)     |    [3](modules/module03.html#sum-and-difference)    | Sum, Difference; Teaching diverse students                                                              |
+|      |   [Sept 11](modules/module03.html#product-and-quotient)   |   [3](modules/module03.html#product-and-quotient)   | Product, Quotient; Teaching operations                                                                  |
+|  5   |   [Sept 16](modules/module03.html#exponents-and-roots)    |   [3](modules/module03.html#exponents-and-roots)    | Exponent and root; Ancestral mathematics activity                                                       |
+|      | [Sept 18](modules/module03.html#stem-figures-and-history) | [3](modules/module03.html#stem-figures-and-history) | **Excursion 1**: National Portrait Gallery; Historical figures in STEM                                  |
+|      |                                                           |                                                     |                                                                                                         |
+|  6   |                          Sept 23                          |                          4                          | Commutative property; Mathematics teaching in grades 4-6, part 1                                        |
+|      |                          Sept 25                          |                          4                          | Associative property; Mathematics teaching in grades 4-6, part 2                                        |
+|  7   |                          Sept 30                          |                          4                          | Distributive property; Historical STEM figure presentations                                             |
+|      |                           Oct 2                           |                          4                          | Identity property; Historical STEM figure presentations                                                 |
+|      |                                                           |                                                     |                                                                                                         |
+|  8   |                           Oct 7                           |                          5                          | Space, geometry, and shape; Teaching African American youth                                             |
+|      |                           Oct 9                           |                          5                          | Geometric proofs; Afrofuturism activities                                                               |
+|  9   |                          Oct 14                           |                                                     | University closed: Mental Health Day                                                                    |
+|      |                          Oct 16                           |                          5                          | Representations in mathematics; Lesson planning and assessment                                          |
+|      |                                                           |                                                     |                                                                                                         |
+|  10  |                          Oct 21                           |                          6                          | Patterns and sequences                                                                                  |
+|      |                          Oct 23                           |                          6                          | **Excursion 2**: National Museum of African American History and Culture                                |
+|  11  |                          Oct 28                           |                          6                          | Rates; Modeling the real-world                                                                          |
+|      |                          Oct 30                           |                          6                          | Functions and variables; Introducing abstract concepts                                                  |
+|      |                                                           |                                                     |                                                                                                         |
+|  12  |                           Nov 4                           |                          7                          | Steps of the Mathematical Method; modeling in grades 4-6                                                |
+|      |                           Nov 6                           |                          7                          | Developing a hypothesis; math stations (arithmetic, algebra, geometry)                                  |
+|  13  |                          Nov 11                           |                          7                          | University closed: Veterans Day                                                                         |
+|      |                          Nov 13                           |                          7                          | Types of mathematical data; statistical methods                                                         |
+|  14  |                          Nov 18                           |                          7                          | Analyzing data from experiments; Drawing conclusions                                                    |
+|      |                          Nov 20                           |                          8                          | Analyzing student data; Student data exercise                                                           |
+|  15  |                          Nov 25                           |                          8                          | Student assessment                                                                                      |
+|      |                          Nov 27                           |                                                     | Course closing and reflections                                                                          |
 :::
