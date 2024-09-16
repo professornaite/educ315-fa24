@@ -97,9 +97,9 @@ Fraction tiles
 
 ![](/img/mod03/fraction-tiles-1.jpeg)
 
-![](/img/mod03/fraction-tiles-2.jpeg)
+![](/img/mod03/fraction-tiles.jpeg)
 
-![Image from CRA methods by the Mathematics Initiative at www.pattan.net](/img/cra-chips-equivalent-fractions.png){width="80%"}
+![Image from CRA methods by the Mathematics Initiative at www.pattan.net](/img/mod03/cra-chips-equivalent-fractions.png){width="80%"}
 
 ### Assessing multiple skills
 
@@ -121,7 +121,7 @@ Pattern blocks can be used to visually demonstrate exponents. For example:
 -   Two triangles together represent $x^2$
 -   Three triangles stacked represent $x^3$
 
-![](/img/mod03/pattern-blocks.jpeg)
+![](/img/mod03/pattern-blocks.jpg)
 
 This helps students visualize exponents as repeated multiplication.
 
