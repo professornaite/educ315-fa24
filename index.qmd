@@ -19,7 +19,7 @@ The pages on this site outline the technical components of **EDUC 315: Principle
 |  4   | [Sept 9](modules/module03.html#sum-and-difference)  | [3](modules/module03.html#sum-and-difference) | Sum, Difference; Teaching diverse students                                                              |
 |      | [Sept 11](modules/module03.html#product-and-quotient) |             [3](modules/module03.html#product-and-quotient)              | Product, Quotient; Teaching operations                                                                  |
 |  5   | [Sept 16](modules/module03.html#exponents-and-roots) |             [3](modules/module03.html#exponents-and-roots)              | Exponent and root; Ancestral mathematics activity                                                       |
-|      | [Sept 18](modules/module03.html#ancestral-mathematics) |             [3](modules/module03.html#ancestral-mathematics)              | **Excursion 1**: National Portrait Gallery; Historical figures in STEM                                  |
+|      | [Sept 18](modules/module03.html#stem-figures-and-history) |             [3](modules/module03.html#stem-figures-and-history)              | **Excursion 1**: National Portrait Gallery; Historical figures in STEM                                  |
 |      |         |                            |                                                                                                         |
 |  6   | Sept 23 |             4              | Commutative property; Mathematics teaching in grades 4-6, part 1                                        |
 |      | Sept 25 |             4              | Associative property; Mathematics teaching in grades 4-6, part 2                                        |
