@@ -119,7 +119,7 @@ Fraction tiles
 
 ![](/img/mod03/fraction-tiles-1.jpeg)
 
-![](/img/mod03/fraction-tiles.jpeg)
+![](/img/mod03/fraction-tiles-2.jpeg)
 
 ![Image from CRA methods by the Mathematics Initiative at www.pattan.net](/img/mod03/cra-chips-equivalent-fractions.png){width="80%"}
 
