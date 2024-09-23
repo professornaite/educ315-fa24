@@ -1,0 +1,73 @@
+---
+title: "Module 4: Structure and Properties"
+subtitle: "EDUC 315 - Howard University"
+author: "Nathan Alexander, PhD"
+institute: "School of Education"
+format: 
+  html: default
+  revealjs:
+    output-file: module04-slides.html
+    height: 900
+    width: 1600
+    smaller: true
+    slide-number: c/t #< collapsted/total
+    logo: "img/howard-logo.jpg"
+    footer: "[Course Data GitHub](https://github.com/educ315-fa24)"
+    toc: false
+    echo: true
+    incremental: false
+---
+
+Module: Structure and Properties
+
+## Module Overview
+
+This module will deepen your understanding of often taken-for-granted fundamental mathematical properties. The module focuses on the commutative, associative, distributive, identity, and inverse properties, which are essential for developing a strong foundation in arithmetic and preparation for algebraic thinking. By exploring each of these properties, you will gain the knowledge to support students' expansion beyond the general principles of quantity and operations.
+
+![Some of the mathematical properties.](/img/mod04/properties){width=50%}
+
+## Commutative Property
+
+::: {.callout-note icon="false"}
+### Commutative property
+
+The commutative property states that the order of operands does not change the final result in certain mathematical operations. It applies to addition and multiplication, but not to subtraction or division.
+
+:::
+
+### Formal expressions:
+
+- For addition: a + b = b + a
+
+- For multiplication: a × b = b × a
+
+### Examples:
+
+#### Addition:
+
+- 3 + 5 = 5 + 3 = 8
+
+- 10 + 7 = 7 + 10 = 17
+
+#### Multiplication:
+
+- 4 × 6 = 6 × 4 = 24
+
+- 3 × 8 = 8 × 3 = 24
+
+#### With variables:
+
+- x + y = y + x
+
+- m × n = n × m
+    
+## Associative Property
+
+
+## Identity Properties
+
+
+## Distributive Property
+
+## Inverse Property
+
