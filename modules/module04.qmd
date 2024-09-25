@@ -24,12 +24,15 @@ Module: Structure and Properties
 
 This module will deepen your understanding of often taken-for-granted fundamental mathematical properties. The module focuses on the commutative, associative, distributive, identity, and inverse properties, which are essential for developing a strong foundation in arithmetic and preparation for algebraic thinking. By exploring each of these properties, you will gain the knowledge to support students' expansion beyond the general principles of quantity and operations.
 
+### Goals for the module
+
+One goal for this module is for you to come up with a set of ways to describe these properties to your students. Use examples from previous modules to guide you.
+
 ![Some of the mathematical properties.](/img/mod04/properties){width=50%}
 
 ## Commutative Property
 
 ::: {.callout-note icon="false"}
-### Commutative property
 
 The commutative property states that the order of operands does not change the final result in certain mathematical operations. It applies to addition and multiplication, but not to subtraction or division.
 
@@ -61,8 +64,69 @@ The commutative property states that the order of operands does not change the f
 
 - m × n = n × m
     
-## Associative Property
+## Associative Properties
 
+::: {.callout-note icon="false"}
+
+Associative Property of Addition
+
+The associative property of addition can be expressed as: (a + b) + c = a + (b + c)
+
+:::
+
+### Examples:
+
+Example 1:
+
+(5 + 2) + 3 = 5 + (2 + 3) 
+
+When we break this down:
+
+- (5 + 2) + 3 = 7 + 3 = 10
+
+- 5 + (2 + 3) = 5 + 5 = 10
+
+As we can see, the result is the same regardless of how we group the numbers.
+
+Example 2:
+
+(4 + (-3)) + 11 = 4 + ((-3) + 11) 
+
+Breaking it down:
+
+- (4 + (-3)) + 11 = 1 + 11 = 12
+
+- 4 + ((-3) + 11) = 4 + 8 = 12
+
+::: {.callout-note icon="false"}
+
+Associative Property of Multiplication
+
+The associative property of multiplication is expressed as: (a × b) × c = a × (b × c)
+:::
+
+### Examples:
+
+Example 3:
+
+(2 × 3) × 5 = 2 × (3 × 5) 
+
+Let's calculate:
+
+- (2 × 3) × 5 = 6 × 5 = 30
+
+- 2 × (3 × 5) = 2 × 15 = 30
+
+
+Example 4:
+
+(-4 × -3) × -5 = -4 × (-3 × -5) 
+
+Breaking it down:
+
+- (-4 × -3) × -5 = 12 × -5 = -60
+
+- -4 × (-3 × -5) = -4 × 15 = -60
 
 ## Identity Properties
 
