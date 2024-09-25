@@ -291,7 +291,7 @@
     "href": "modules/module04-slides.html#module-overview",
     "title": "Module 4: Structure and Properties",
     "section": "Module Overview",
-    "text": "Module Overview\nThis module will deepen your understanding of often taken-for-granted fundamental mathematical properties. The module focuses on the commutative, associative, distributive, identity, and inverse properties, which are essential for developing a strong foundation in arithmetic and preparation for algebraic thinking. By exploring each of these properties, you will gain the knowledge to support students’ expansion beyond the general principles of quantity and operations.\n\nSome of the mathematical properties."
+    "text": "Module Overview\nThis module will deepen your understanding of often taken-for-granted fundamental mathematical properties. The module focuses on the commutative, associative, distributive, identity, and inverse properties, which are essential for developing a strong foundation in arithmetic and preparation for algebraic thinking. By exploring each of these properties, you will gain the knowledge to support students’ expansion beyond the general principles of quantity and operations.\nGoals for the module\nOne goal for this module is for you to come up with a set of ways to describe these properties to your students. Use examples from previous modules to guide you.\n\nSome of the mathematical properties."
   },
   {
     "objectID": "modules/module04-slides.html#commutative-property",
@@ -301,11 +301,11 @@
     "text": "Commutative Property\n\n\n\nNote\n\n\nThe commutative property states that the order of operands does not change the final result in certain mathematical operations. It applies to addition and multiplication, but not to subtraction or division.\n\n\n\nFormal expressions:\n\nFor addition: a + b = b + a\nFor multiplication: a × b = b × a\n\nExamples:\nAddition:\n\n3 + 5 = 5 + 3 = 8\n10 + 7 = 7 + 10 = 17\n\nMultiplication:\n\n4 × 6 = 6 × 4 = 24\n3 × 8 = 8 × 3 = 24\n\nWith variables:\n\nx + y = y + x\nm × n = n × m"
   },
   {
-    "objectID": "modules/module04-slides.html#associative-property",
-    "href": "modules/module04-slides.html#associative-property",
+    "objectID": "modules/module04-slides.html#associative-properties",
+    "href": "modules/module04-slides.html#associative-properties",
     "title": "Module 4: Structure and Properties",
-    "section": "Associative Property",
-    "text": "Associative Property"
+    "section": "Associative Properties",
+    "text": "Associative Properties\n\n\n\nNote\n\n\nAssociative Property of Addition\nThe associative property of addition can be expressed as: (a + b) + c = a + (b + c)\n\n\n\nExamples:\nExample 1:\n(5 + 2) + 3 = 5 + (2 + 3)\nWhen we break this down:\n\n(5 + 2) + 3 = 7 + 3 = 10\n5 + (2 + 3) = 5 + 5 = 10\n\nAs we can see, the result is the same regardless of how we group the numbers.\nExample 2:\n(4 + (-3)) + 11 = 4 + ((-3) + 11)\nBreaking it down:\n\n(4 + (-3)) + 11 = 1 + 11 = 12\n4 + ((-3) + 11) = 4 + 8 = 12\n\n\n\n\nNote\n\n\nAssociative Property of Multiplication\nThe associative property of multiplication is expressed as: (a × b) × c = a × (b × c)\n\n\n\nExamples:\nExample 3:\n(2 × 3) × 5 = 2 × (3 × 5)\nLet’s calculate:\n\n(2 × 3) × 5 = 6 × 5 = 30\n2 × (3 × 5) = 2 × 15 = 30\n\nExample 4:\n(-4 × -3) × -5 = -4 × (-3 × -5)\nBreaking it down:\n\n(-4 × -3) × -5 = 12 × -5 = -60\n-4 × (-3 × -5) = -4 × 15 = -60\n\n\nDifference bewteen commutative and associative properties"
   },
   {
     "objectID": "modules/module04-slides.html#identity-properties",
@@ -350,11 +350,11 @@
     "text": "Commutative Property\n\n\n\n\n\n\nThe commutative property states that the order of operands does not change the final result in certain mathematical operations. It applies to addition and multiplication, but not to subtraction or division.\n\n\n\n\nFormal expressions:\n\nFor addition: a + b = b + a\nFor multiplication: a × b = b × a\n\n\n\nExamples:\n\nAddition:\n\n3 + 5 = 5 + 3 = 8\n10 + 7 = 7 + 10 = 17\n\n\n\nMultiplication:\n\n4 × 6 = 6 × 4 = 24\n3 × 8 = 8 × 3 = 24\n\n\n\nWith variables:\n\nx + y = y + x\nm × n = n × m"
   },
   {
-    "objectID": "modules/module04.html#associative-property",
-    "href": "modules/module04.html#associative-property",
+    "objectID": "modules/module04.html#associative-properties",
+    "href": "modules/module04.html#associative-properties",
     "title": "Module 4: Structure and Properties",
-    "section": "Associative Property",
-    "text": "Associative Property"
+    "section": "Associative Properties",
+    "text": "Associative Properties\n\n\n\n\n\n\nAssociative Property of Addition\nThe associative property of addition can be expressed as: (a + b) + c = a + (b + c)\n\n\n\n\nExamples:\nExample 1:\n(5 + 2) + 3 = 5 + (2 + 3)\nWhen we break this down:\n\n(5 + 2) + 3 = 7 + 3 = 10\n5 + (2 + 3) = 5 + 5 = 10\n\nAs we can see, the result is the same regardless of how we group the numbers.\nExample 2:\n(4 + (-3)) + 11 = 4 + ((-3) + 11)\nBreaking it down:\n\n(4 + (-3)) + 11 = 1 + 11 = 12\n4 + ((-3) + 11) = 4 + 8 = 12\n\n\n\n\n\n\n\nAssociative Property of Multiplication\nThe associative property of multiplication is expressed as: (a × b) × c = a × (b × c)\n\n\n\n\n\nExamples:\nExample 3:\n(2 × 3) × 5 = 2 × (3 × 5)\nLet’s calculate:\n\n(2 × 3) × 5 = 6 × 5 = 30\n2 × (3 × 5) = 2 × 15 = 30\n\nExample 4:\n(-4 × -3) × -5 = -4 × (-3 × -5)\nBreaking it down:\n\n(-4 × -3) × -5 = 12 × -5 = -60\n-4 × (-3 × -5) = -4 × 15 = -60\n\n\n\n\nDifference bewteen commutative and associative properties"
   },
   {
     "objectID": "modules/module04.html#identity-properties",
@@ -495,19 +495,5 @@
     "title": "Common Core State Standards",
     "section": "",
     "text": "Text for this page was taken from osse.dc.gov:\nThe Common Core State Standards (CCSS) - Mathematics were adopted by the DC State Board of Education (July, 2010), as the K-12 Math Standards for the District of Columbia. Schools began a staged implementation of the standards during the 2011-12 school year. From 2011-2014, teachers received ongoing training in Common Core implementation, with full implementation occurring during the 2014-15 school year.\nThe CCSS-Mathematics demand a shift in math instruction from an emphasis on procedural fluency towards a balance between procedural fluency, conceptual understanding and application of concepts, so students are better prepared for the critical thinking necessary to succeed in college, careers and their daily lives. OSSE seeks to support high-quality implementation of the Common Core State Standards for Mathematics.\nFind more information by clicking here"
-  },
-  {
-    "objectID": "modules/module04.html#associative-properties",
-    "href": "modules/module04.html#associative-properties",
-    "title": "Module 4: Structure and Properties",
-    "section": "Associative Properties",
-    "text": "Associative Properties\n\n\n\n\n\n\nAssociative Property of Addition\nThe associative property of addition can be expressed as: (a + b) + c = a + (b + c)\n\n\n\n\nExamples:\nExample 1:\n(5 + 2) + 3 = 5 + (2 + 3)\nWhen we break this down:\n\n(5 + 2) + 3 = 7 + 3 = 10\n5 + (2 + 3) = 5 + 5 = 10\n\nAs we can see, the result is the same regardless of how we group the numbers.\nExample 2:\n(4 + (-3)) + 11 = 4 + ((-3) + 11)\nBreaking it down:\n\n(4 + (-3)) + 11 = 1 + 11 = 12\n4 + ((-3) + 11) = 4 + 8 = 12\n\n\n\n\n\n\n\nAssociative Property of Multiplication\nThe associative property of multiplication is expressed as: (a × b) × c = a × (b × c)\n\n\n\n\n\nExamples:\nExample 3:\n(2 × 3) × 5 = 2 × (3 × 5)\nLet’s calculate:\n\n(2 × 3) × 5 = 6 × 5 = 30\n2 × (3 × 5) = 2 × 15 = 30\n\nExample 4:\n(-4 × -3) × -5 = -4 × (-3 × -5)\nBreaking it down:\n\n(-4 × -3) × -5 = 12 × -5 = -60\n-4 × (-3 × -5) = -4 × 15 = -60\n\n\n\n\nDifference bewteen commutative and associative properties"
-  },
-  {
-    "objectID": "modules/module04-slides.html#associative-properties",
-    "href": "modules/module04-slides.html#associative-properties",
-    "title": "Module 4: Structure and Properties",
-    "section": "Associative Properties",
-    "text": "Associative Properties\n\n\n\nNote\n\n\nAssociative Property of Addition\nThe associative property of addition can be expressed as: (a + b) + c = a + (b + c)\n\n\n\n\n\n\nNote\n\n\nAssociative Property of Multiplication\nThe associative property of multiplication is expressed as: (a × b) × c = a × (b × c)"
   }
 ]
