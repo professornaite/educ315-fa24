@@ -128,6 +128,8 @@ Breaking it down:
 
 - -4 × (-3 × -5) = -4 × 15 = -60
 
+![Difference bewteen commutative and associative properties](/img/mod04/com-aso.jpg){width=50%}
+
 ## Identity Properties
 
 
