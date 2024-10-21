@@ -28,7 +28,11 @@ This module will deepen your understanding of often taken-for-granted fundamenta
 
 One goal for this module is for you to come up with a set of ways to describe these properties to your students. Use examples from previous modules to guide you.
 
+---
+
 ![Some of the mathematical properties.](/img/mod04/properties){width=50%}
+
+---
 
 ## Commutative Property
 
@@ -38,11 +42,15 @@ The commutative property states that the order of operands does not change the f
 
 :::
 
+---
+
 ### Formal expressions:
 
 - For addition: a + b = b + a
 
 - For multiplication: a × b = b × a
+
+---
 
 ### Examples:
 
@@ -52,18 +60,24 @@ The commutative property states that the order of operands does not change the f
 
 - 10 + 7 = 7 + 10 = 17
 
+---
+
 #### Multiplication:
 
 - 4 × 6 = 6 × 4 = 24
 
 - 3 × 8 = 8 × 3 = 24
 
+---
+
 #### With variables:
 
 - x + y = y + x
 
 - m × n = n × m
-    
+
+---
+
 ## Associative Properties
 
 ::: {.callout-note icon="false"}
@@ -73,6 +87,8 @@ Associative Property of Addition
 The associative property of addition can be expressed as: (a + b) + c = a + (b + c)
 
 :::
+
+---
 
 ### Examples:
 
@@ -88,6 +104,8 @@ When we break this down:
 
 As we can see, the result is the same regardless of how we group the numbers.
 
+---
+
 Example 2:
 
 (4 + (-3)) + 11 = 4 + ((-3) + 11) 
@@ -98,12 +116,16 @@ Breaking it down:
 
 - 4 + ((-3) + 11) = 4 + 8 = 12
 
+---
+
 ::: {.callout-note icon="false"}
 
 Associative Property of Multiplication
 
 The associative property of multiplication is expressed as: (a × b) × c = a × (b × c)
 :::
+
+---
 
 ### Examples:
 
@@ -117,6 +139,7 @@ Let's calculate:
 
 - 2 × (3 × 5) = 2 × 15 = 30
 
+---
 
 Example 4:
 
@@ -127,6 +150,8 @@ Breaking it down:
 - (-4 × -3) × -5 = 12 × -5 = -60
 
 - -4 × (-3 × -5) = -4 × 15 = -60
+
+---
 
 ![Difference bewteen commutative and associative properties](/img/mod04/com-aso.jpg){width=50%}
 
