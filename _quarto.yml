@@ -54,6 +54,8 @@ website:
           text: Module 3
         - href: modules/module04.qmd
           text: Module 4
+        - href: modules/module05.qmd
+          text: Module 5
     - section: "Assignment rubrics"
       contents:
         - href: historical-figure.qmd
