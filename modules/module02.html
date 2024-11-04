@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Nathan Alexander, PhD">
 
-<title>Course overview – EDUC 315: Principles of Teaching Math and Science in Urban Classrooms II (Grades 4-6)</title>
+<title>Module 2: Numbers and sets – EDUC 315: Principles of Teaching Math and Science in Urban Classrooms II (Grades 4-6)</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,25 +24,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./assignments.html" rel="next">
-<link href="./who.html" rel="prev">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../modules/module03.html" rel="next">
+<link href="../modules/module01.html" rel="prev">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -70,9 +71,38 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<meta property="og:title" content="Course overview – EDUC 315: Principles of Teaching Math and Science in Urban Classrooms II (Grades 4-6)">
-<meta property="og:description" content="Principles of Teaching Math and Science in Urban Classrooms II">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<meta property="og:title" content="Module 2: Numbers and sets – EDUC 315: Principles of Teaching Math and Science in Urban Classrooms II (Grades 4-6)">
+<meta property="og:description" content="EDUC 315 - Howard University">
 <meta property="og:site_name" content="EDUC 315: Principles of Teaching Math and Science in Urban Classrooms II (Grades 4-6)">
 </head>
 
@@ -85,7 +115,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Course information</a></li><li class="breadcrumb-item"><a href="./course-overview.html">Overview</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../modules/module01.html">Modules</a></li><li class="breadcrumb-item"><a href="../modules/module02.html">Module 2</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -99,8 +129,8 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-center sidebar-header">
-      <a href="./index.html" class="sidebar-logo-link">
-      <img src="./img/gladys-west.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      <a href="../index.html" class="sidebar-logo-link">
+      <img src="../img/gladys-west.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
       <div class="sidebar-tools-main tools-wide">
     <a href="https://professornaite.github.io/educ315-fa24/" title="GitHub organization" class="quarto-navigation-tool px-1" aria-label="GitHub organization"><i class="bi bi-github"></i></a>
@@ -117,34 +147,34 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false">
  <span class="menu-text">Course information</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Course landing page</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./who.html" class="sidebar-item-text sidebar-link">
+  <a href="../who.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Who is in the site photo?</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./course-overview.html" class="sidebar-item-text sidebar-link active">
+  <a href="../course-overview.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Overview</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./assignments.html" class="sidebar-item-text sidebar-link">
+  <a href="../assignments.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Assignments</span></a>
   </div>
 </li>
@@ -152,34 +182,34 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
  <span class="menu-text">Modules</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./modules/module01.html" class="sidebar-item-text sidebar-link">
+  <a href="../modules/module01.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Module 1</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./modules/module02.html" class="sidebar-item-text sidebar-link">
+  <a href="../modules/module02.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Module 2</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./modules/module03.html" class="sidebar-item-text sidebar-link">
+  <a href="../modules/module03.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Module 3</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./modules/module04.html" class="sidebar-item-text sidebar-link">
+  <a href="../modules/module04.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Module 4</span></a>
   </div>
 </li>
@@ -196,13 +226,13 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./historical-figure.html" class="sidebar-item-text sidebar-link">
+  <a href="../historical-figure.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Historical STEM figure</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./math-lesson.html" class="sidebar-item-text sidebar-link">
+  <a href="../math-lesson1.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Mathematics Lesson</span></a>
   </div>
 </li>
@@ -219,13 +249,13 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./field/expectations.html" class="sidebar-item-text sidebar-link">
+  <a href="../field/expectations.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Expectations</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./field/weekly.html" class="sidebar-item-text sidebar-link">
+  <a href="../field/weekly.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Weekly schedules</span></a>
   </div>
 </li>
@@ -242,25 +272,25 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./standards/osse.html" class="sidebar-item-text sidebar-link">
+  <a href="../standards/osse.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Office of the State Superintendent of Education (OSSE)</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./standards/common.html" class="sidebar-item-text sidebar-link">
+  <a href="../standards/common.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Common Core State Standards - Mathematics</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./standards/umoja.html" class="sidebar-item-text sidebar-link">
+  <a href="../standards/umoja.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Umoja Curriculum</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./standards/freedom.html" class="sidebar-item-text sidebar-link">
+  <a href="../standards/freedom.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Freedom School Curriculum</span></a>
   </div>
 </li>
@@ -276,31 +306,69 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#a-slightly-more-detailed-overview." id="toc-a-slightly-more-detailed-overview." class="nav-link active" data-scroll-target="#a-slightly-more-detailed-overview.">A slightly more detailed overview.</a>
+  <li><a href="#module-overview" id="toc-module-overview" class="nav-link active" data-scroll-target="#module-overview">Module Overview</a></li>
+  <li><a href="#problem-solving" id="toc-problem-solving" class="nav-link" data-scroll-target="#problem-solving">Problem Solving</a>
   <ul class="collapse">
-  <li><a href="#course-description" id="toc-course-description" class="nav-link" data-scroll-target="#course-description">Course description</a></li>
-  <li><a href="#syllabus" id="toc-syllabus" class="nav-link" data-scroll-target="#syllabus"><strong>Syllabus</strong></a></li>
-  <li><a href="#canvas" id="toc-canvas" class="nav-link" data-scroll-target="#canvas"><strong>Canvas</strong></a></li>
-  <li><a href="#a-few-other-items" id="toc-a-few-other-items" class="nav-link" data-scroll-target="#a-few-other-items"><strong>A few other items</strong></a></li>
-  <li><a href="#course-site-this-page" id="toc-course-site-this-page" class="nav-link" data-scroll-target="#course-site-this-page"><strong>Course site</strong> (this page!)</a></li>
+  <li><a href="#who-is-george-polya" id="toc-who-is-george-polya" class="nav-link" data-scroll-target="#who-is-george-polya">Who is George Polya?</a></li>
+  </ul></li>
+  <li><a href="#history-of-number-theory" id="toc-history-of-number-theory" class="nav-link" data-scroll-target="#history-of-number-theory">History of Number Theory</a></li>
+  <li><a href="#sets" id="toc-sets" class="nav-link" data-scroll-target="#sets">Sets</a></li>
+  <li><a href="#numbers" id="toc-numbers" class="nav-link" data-scroll-target="#numbers">Numbers</a>
+  <ul class="collapse">
+  <li><a href="#natural-numbers" id="toc-natural-numbers" class="nav-link" data-scroll-target="#natural-numbers">Natural numbers</a></li>
+  <li><a href="#whole-numbers" id="toc-whole-numbers" class="nav-link" data-scroll-target="#whole-numbers">Whole numbers</a></li>
+  </ul></li>
+  <li><a href="#teaching-sets-and-numbers" id="toc-teaching-sets-and-numbers" class="nav-link" data-scroll-target="#teaching-sets-and-numbers">Teaching sets and numbers</a>
+  <ul class="collapse">
+  <li><a href="#teaching-sets" id="toc-teaching-sets" class="nav-link" data-scroll-target="#teaching-sets">Teaching Sets</a>
+  <ul class="collapse">
+  <li><a href="#basic-set-concepts" id="toc-basic-set-concepts" class="nav-link" data-scroll-target="#basic-set-concepts">Basic Set Concepts</a></li>
+  <li><a href="#set-relationships-and-operations" id="toc-set-relationships-and-operations" class="nav-link" data-scroll-target="#set-relationships-and-operations">Set Relationships and Operations</a></li>
+  <li><a href="#progression" id="toc-progression" class="nav-link" data-scroll-target="#progression">Progression</a></li>
+  <li><a href="#teaching-strategies" id="toc-teaching-strategies" class="nav-link" data-scroll-target="#teaching-strategies">Teaching Strategies</a></li>
+  <li><a href="#real-world-applications" id="toc-real-world-applications" class="nav-link" data-scroll-target="#real-world-applications">Real-world Applications</a></li>
+  <li><a href="#common-misconceptions" id="toc-common-misconceptions" class="nav-link" data-scroll-target="#common-misconceptions">Common Misconceptions</a></li>
+  </ul></li>
+  <li><a href="#teaching-numbers" id="toc-teaching-numbers" class="nav-link" data-scroll-target="#teaching-numbers">Teaching Numbers</a>
+  <ul class="collapse">
+  <li><a href="#teaching-fractions" id="toc-teaching-fractions" class="nav-link" data-scroll-target="#teaching-fractions">Teaching Fractions</a></li>
+  <li><a href="#teaching-decimals" id="toc-teaching-decimals" class="nav-link" data-scroll-target="#teaching-decimals">Teaching Decimals</a></li>
+  <li><a href="#connecting-fractions-and-decimals" id="toc-connecting-fractions-and-decimals" class="nav-link" data-scroll-target="#connecting-fractions-and-decimals">Connecting Fractions and Decimals</a></li>
+  <li><a href="#key-teaching-strategies" id="toc-key-teaching-strategies" class="nav-link" data-scroll-target="#key-teaching-strategies">Key Teaching Strategies</a></li>
+  <li><a href="#progression-1" id="toc-progression-1" class="nav-link" data-scroll-target="#progression-1">Progression</a></li>
+  </ul></li>
+  <li><a href="#exercises" id="toc-exercises" class="nav-link" data-scroll-target="#exercises">Exercises</a></li>
   </ul></li>
   </ul>
-</nav>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="module02-slides.html"><i class="bi bi-file-slides"></i>RevealJS</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Course information</a></li><li class="breadcrumb-item"><a href="./course-overview.html">Overview</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../modules/module01.html">Modules</a></li><li class="breadcrumb-item"><a href="../modules/module02.html">Module 2</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Course overview</h1>
-<p class="subtitle lead">Principles of Teaching Math and Science in Urban Classrooms II</p>
+<h1 class="title">Module 2: Numbers and sets</h1>
+<p class="subtitle lead">EDUC 315 - Howard University</p>
 </div>
 
 
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Author</div>
+  <div class="quarto-title-meta-heading">Affiliation</div>
+  
+    <div class="quarto-title-meta-contents">
+    <p class="author">Nathan Alexander, PhD </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            School of Education
+          </p>
+      </div>
+  </div>
 
 <div class="quarto-title-meta">
 
-    
+      
   
     
   </div>
@@ -310,62 +378,214 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="a-slightly-more-detailed-overview." class="level2">
-<h2 class="anchored" data-anchor-id="a-slightly-more-detailed-overview.">A slightly more detailed overview.</h2>
-<section id="course-description" class="level3">
-<h3 class="anchored" data-anchor-id="course-description">Course description</h3>
-<p>Provides candidates with knowledge, skills, dispositions and pedagogy to deliver content-rich, rigorous mathematics and science instruction for African American and diverse urban learners in grades 4-6.Candidates will have opportunities to employ a variety of instructional strategies to integrate mathematics and science content and the Common Core State Standards through the Principles of Learning Mathematics and Science. Field-based experiences provide an opportunity for candidates to design, develop and implementevidence-based lessons in science and mathematics.</p>
-<p>Click <a href="https://catalogue.howard.edu/sites/default/files/pdf/class/educ-315.pdf?1697638771">here</a> to see the Howard course catalog description.</p>
+<p>Module: Numbers and Sets</p>
+<section id="module-overview" class="level2">
+<h2 class="anchored" data-anchor-id="module-overview">Module Overview</h2>
+<p>This module explores fundamental concepts in mathematics, focusing on numbers and sets within the context of problem-solving strategies. It is designed for teachers of grades 4-6 in urban classrooms. The module covers the history of problem-solving in mathematics, introduces George Polya’s problem-solving approach, delves into number theory, and examines the concept of sets and various number systems. By the end of this module, you will have a comprehensive understanding of these topics and be equipped to apply problem-solving strategies in their classrooms.</p>
 </section>
-<section id="syllabus" class="level3">
-<h3 class="anchored" data-anchor-id="syllabus"><strong>Syllabus</strong></h3>
-<p>A high-level view of the course.</p>
-<p><em>Please note: this section is only a summary of our syllabus.</em> The full syllabus is available on our Canvas site <a href="https://canvas.howard.edu/courses/53402" target="_blank">here</a>. I have summarized some important items found on the syllabus below:</p>
-<p><strong>Instructor</strong>: Nathan Alexander, PhD</p>
+<section id="problem-solving" class="level2">
+<h2 class="anchored" data-anchor-id="problem-solving">Problem Solving</h2>
+<p>Problem-solving has been a central focus in mathematics education for decades. The emphasis on problem-solving strategies gained momentum in the 1980s, with the National Council of Teachers of Mathematics (NCTM) highlighting its importance in their standards. Since then, various approaches have been developed to enhance students’ problem-solving skills, including heuristic strategies, metacognitive techniques, and collaborative problem-solving.</p>
+<section id="who-is-george-polya" class="level3">
+<h3 class="anchored" data-anchor-id="who-is-george-polya">Who is George Polya?</h3>
+<p>George Polya (1887-1985) was a Hungarian mathematician who made significant contributions to various fields of mathematics. He is best known for his work on problem-solving, particularly his book “How to Solve It” (1945), which outlines a systematic approach to problem-solving.</p>
+<p>Polya’s problem-solving approach consists of four main steps:</p>
+<ol type="1">
+<li><p><strong>Understand the problem</strong>: This step involves carefully reading the problem, identifying key information, and clarifying any unfamiliar terms or concepts.</p></li>
+<li><p><strong>Devise a plan</strong>: Here, the problem-solver considers various strategies and selects an appropriate approach. This may include drawing diagrams, looking for patterns, or working backwards.</p></li>
+<li><p><strong>Carry out the plan</strong>: In this step, the chosen strategy is implemented, and calculations are performed. It’s important to check each step for accuracy[2].</p></li>
+<li><p><strong>Look back</strong>: After obtaining a solution, the problem-solver reviews their work, verifies the result, and considers alternative methods or extensions of the problem[2].</p></li>
+</ol>
+<p><strong>Example 1</strong>: Solve the equation 2x + 5 = 13</p>
+<ol type="1">
+<li>Understand: We need to find the value of x that makes the equation true.</li>
+<li>Plan: Isolate x by subtracting 5 from both sides, then divide by 2.</li>
+<li>Execute: 2x + 5 = 13 2x = 8 x = 4</li>
+<li>Look back: Check if 2(4) + 5 = 13, which it does.</li>
+</ol>
+<p><strong>Example 2</strong>: Find the area of a rectangle with perimeter 24 cm and length 3 cm longer than its width.</p>
+<ol type="1">
+<li>Understand: We need to find the area, given the perimeter and a relationship between length and width.</li>
+<li>Plan: Let w be the width. Express length as w + 3. Use the perimeter formula to find w, then calculate the area.</li>
+<li>Execute: 2(w + (w + 3)) = 24 4w + 6 = 24 4w = 18 w = 4.5 cm length = 7.5 cm Area = 4.5 × 7.5 = 33.75 cm²</li>
+<li>Look back: Verify that the perimeter is indeed 24 cm and the length is 3 cm longer than the width.</li>
+</ol>
+</section>
+</section>
+<section id="history-of-number-theory" class="level2">
+<h2 class="anchored" data-anchor-id="history-of-number-theory">History of Number Theory</h2>
+<p>Number theory has a rich history of problem-solving approaches. Some famous theorems include:</p>
+<ol type="1">
+<li><p><strong>Fermat’s Last Theorem</strong>: Pierre de Fermat claimed in 1637 that no three positive integers a, b, and c can satisfy the equation a^n + b^n = c^n for any integer n &gt; 2. This theorem was finally proved by Andrew Wiles in 1995, after centuries of attempts.</p></li>
+<li><p><strong>The Goldbach Conjecture</strong>: Proposed by Christian Goldbach in 1742, it states that every even integer greater than 2 can be expressed as the sum of two primes. While widely believed to be true, it remains unproven.</p></li>
+<li><p><strong>The Riemann Hypothesis</strong>: Proposed by Bernhard Riemann in 1859, this conjecture about the distribution of prime numbers is considered one of the most important unsolved problems in mathematics.</p></li>
+</ol>
+</section>
+<section id="sets" class="level2">
+<h2 class="anchored" data-anchor-id="sets">Sets</h2>
+<p>A set is a well-defined collection of distinct objects. Set theory provides a foundation for much of modern mathematics. Key concepts include:</p>
 <ul>
-<li><p>Contact information:</p>
-<p><strong>Email</strong>: <a href="mailto:nathan.alexander@howard.edu">nathan.alexander@howard.edu</a></p>
-<p><strong>Office hours</strong>: By appointment at <a href="https://nathanalexander.youcanbook.me" class="uri">https://nathanalexander.youcanbook.me</a></p></li>
-<li><p>Course information:</p>
-<p><strong>Course meeting times</strong>: Mondays and Wednesdays at 1:10pm - 3pm EST</p>
-<p><strong>Course meeting location</strong>: ASA 0216 (see Canvas)</p></li>
+<li>Set notation: {1, 2, 3} represents a set containing the elements 1, 2, and 3.</li>
+<li>Subsets: A is a subset of B if every element of A is also in B.</li>
+<li>Set operations: union (∪), intersection (∩), difference (-), complement.</li>
+<li>Venn diagrams: Visual representations of set relationships.</li>
 </ul>
 </section>
-<section id="canvas" class="level3">
-<h3 class="anchored" data-anchor-id="canvas"><strong>Canvas</strong></h3>
-<p>Canvas is the go-to for submissions, and where you can find readings and assignment rubrics. <a href="https://canvas.howard.edu/courses/53402">Here</a> is another link to Canvas, I’ll try to drop these as often as possible. Two things about Canvas: it has your <strong>assignments</strong> and it has your <strong>readings</strong>.</p>
-<section id="canvas-has-your-course-assignments" class="level4">
-<h4 class="anchored" data-anchor-id="canvas-has-your-course-assignments">Canvas has your course assignments</h4>
-<div class="incremental">
-<p>The four categories for <strong>assignments</strong> in this course are as follows:</p>
-<ul class="incremental">
-<li><strong>Reflection and position statements</strong> [10 points]</li>
-<li><strong>Classroom activities and lesson plans</strong>. [50 points]</li>
-<li><strong>Quizzes</strong>. [20 points]</li>
-<li><strong>Field placement log; excursion notes/observations</strong>. [15 points]</li>
-<li><strong>Participation</strong>. [5 points]</li>
+<section id="numbers" class="level2">
+<h2 class="anchored" data-anchor-id="numbers">Numbers</h2>
+<p>The sets of numbers form a hierarchy:</p>
+<ol type="1">
+<li><strong>Natural numbers (ℕ)</strong>: Positive integers used for counting.</li>
+<li><strong>Whole numbers (ℕ<sub>0</sub>)</strong>: Natural numbers plus zero.</li>
+<li><strong>Integers (ℤ)</strong>: Positive and negative whole numbers.</li>
+<li><strong>Rational numbers (ℚ)</strong>: Numbers that can be expressed as fractions.</li>
+<li><strong>Irrational numbers</strong>: Numbers that cannot be expressed as fractions (e.g., π, √2, √3).</li>
+<li><strong>Real numbers (ℝ)</strong>: The union of rational and irrational numbers.</li>
+<li><strong>Complex numbers (ℂ)</strong>: Numbers with a real and imaginary part.</li>
+</ol>
+<section id="natural-numbers" class="level3">
+<h3 class="anchored" data-anchor-id="natural-numbers">Natural numbers</h3>
+<ul>
+<li><p>Definition: Positive integers used for counting (1, 2, 3, …)</p></li>
+<li><p>Also called counting numbers</p></li>
+<li><p>Denoted by N or ℕ Smallest natural number: 1</p></li>
+<li><p>No largest natural number (infinite set)</p></li>
 </ul>
-</div>
 </section>
-</section>
-<section id="a-few-other-items" class="level3">
-<h3 class="anchored" data-anchor-id="a-few-other-items"><strong>A few other items</strong></h3>
-<section id="expectations" class="level4">
-<h4 class="anchored" data-anchor-id="expectations">Expectations</h4>
-<p>This course will help you gain both a conceptual and theoretical understanding of the various concepts we will explore, and then a technical understanding of the complex issues that relate to them. We also want to communicate our ideas. These can be difficult tasks. But I encourage you to explore and to be creative, and to take chances. Errors should mostly remind us that there is always the backspace button. Below are some general <strong>expectations</strong> to keep us all moving forward as a community:</p>
-<div class="incremental">
-<ul class="incremental">
-<li>Communicate early and often</li>
-<li>Show up to class on time</li>
-<li>Do not schedule other meetings during class time</li>
-<li>No late work will be accepted without prior discussion</li>
+<section id="whole-numbers" class="level3">
+<h3 class="anchored" data-anchor-id="whole-numbers">Whole numbers</h3>
+<ul>
+<li><p>Definition: Natural numbers plus zero (0, 1, 2, 3, …)</p></li>
+<li><p>Includes all non-negative integers</p></li>
 </ul>
-</div>
+<section id="key-differences" class="level4">
+<h4 class="anchored" data-anchor-id="key-differences">Key differences</h4>
+<ul>
+<li><p>Natural numbers start at 1, whole numbers start at 0</p></li>
+<li><p>Whole numbers are a superset of natural numbers</p></li>
+</ul>
 </section>
 </section>
-<section id="course-site-this-page" class="level3">
-<h3 class="anchored" data-anchor-id="course-site-this-page"><strong>Course site</strong> (this page!)</h3>
-<p>You can return to this page to remind yourself of the four parts of our course, especially when we dive deep into specific projects. This page will remain static (it will not be updated), so use it as an archive that you can return to; start in this page position if you have questions about the schedule, procedures, expectations (above) …then assignments (next).</p>
+</section>
+<section id="teaching-sets-and-numbers" class="level1">
+<h1>Teaching sets and numbers</h1>
+<p>To effectively teach numbers, fractions, and decimals, teachers should follow a structured approach that builds conceptual understanding and connects the related topics.</p>
+<section id="teaching-sets" class="level2">
+<h2 class="anchored" data-anchor-id="teaching-sets">Teaching Sets</h2>
+<ul>
+<li>Introduce the concept of a set as a collection of distinct objects</li>
+<li>Start with concrete, familiar examples (e.g., set of fruits, set of colors)</li>
+</ul>
+<section id="basic-set-concepts" class="level3">
+<h3 class="anchored" data-anchor-id="basic-set-concepts">Basic Set Concepts</h3>
+<ul>
+<li>Teach set notation: { } for listing elements, <span class="math inline">\(\epsilon\)</span> for “is an element of”</li>
+<li>Explain finite and infinite sets</li>
+<li>Introduce the empty set (∅ or { })</li>
+</ul>
+</section>
+<section id="set-relationships-and-operations" class="level3">
+<h3 class="anchored" data-anchor-id="set-relationships-and-operations">Set Relationships and Operations</h3>
+<ul>
+<li>Teach subset (⊆) and proper subset (⊂) relationships</li>
+<li>Introduce set operations: union (∪), intersection (∩), difference (-)</li>
+<li>Use Venn diagrams to visually represent set relationships</li>
+</ul>
+</section>
+<section id="progression" class="level3">
+<h3 class="anchored" data-anchor-id="progression">Progression</h3>
+<ol type="1">
+<li>Begin with simple, countable sets</li>
+<li>Move to more abstract sets (e.g., even numbers, prime numbers)</li>
+<li>Introduce set operations and relationships</li>
+<li>Connect sets to other mathematical concepts (e.g., number systems, probability)</li>
+</ol>
+</section>
+<section id="teaching-strategies" class="level3">
+<h3 class="anchored" data-anchor-id="teaching-strategies">Teaching Strategies</h3>
+<ul>
+<li>Use manipulatives for hands-on exploration of sets</li>
+<li>Employ visual aids like Venn diagrams and Carroll diagrams</li>
+<li>Encourage students to create their own sets and classify objects</li>
+<li>Integrate set theory into problem-solving activities</li>
+</ul>
+</section>
+<section id="real-world-applications" class="level3">
+<h3 class="anchored" data-anchor-id="real-world-applications">Real-world Applications</h3>
+<ul>
+<li>Discuss how sets are used in databases and computer science</li>
+<li>Explore set applications in logic and reasoning</li>
+<li>Show how sets relate to grouping and categorization in everyday life</li>
+</ul>
+</section>
+<section id="common-misconceptions" class="level3">
+<h3 class="anchored" data-anchor-id="common-misconceptions">Common Misconceptions</h3>
+<ul>
+<li>Address the difference between a set and its elements</li>
+<li>Clarify that order doesn’t matter in sets (unlike in sequences)</li>
+<li>Explain that repeated elements are counted only once in a set</li>
+</ul>
+</section>
+</section>
+<section id="teaching-numbers" class="level2">
+<h2 class="anchored" data-anchor-id="teaching-numbers">Teaching Numbers</h2>
+<ul>
+<li>Start with natural numbers (1, 2, 3, …) for counting and basic operations</li>
+<li>Introduce whole numbers, including zero</li>
+<li>Emphasize place value concepts and number relationships</li>
+</ul>
+<section id="teaching-fractions" class="level3">
+<h3 class="anchored" data-anchor-id="teaching-fractions">Teaching Fractions</h3>
+<ul>
+<li>Begin with concrete models and visual representations</li>
+<li>Use fraction walls and number lines to demonstrate equivalence</li>
+<li>Introduce proper fractions before improper fractions and mixed numbers</li>
+<li>Focus on conceptual understanding before moving to procedures</li>
+</ul>
+</section>
+<section id="teaching-decimals" class="level3">
+<h3 class="anchored" data-anchor-id="teaching-decimals">Teaching Decimals</h3>
+<ul>
+<li>Connect decimals to fractions, especially tenths and hundredths</li>
+<li>Use place value language (e.g., “two-tenths and four-hundredths” for 0.24)</li>
+<li>Employ visual models like decimal grids and number lines</li>
+</ul>
+</section>
+<section id="connecting-fractions-and-decimals" class="level3">
+<h3 class="anchored" data-anchor-id="connecting-fractions-and-decimals">Connecting Fractions and Decimals</h3>
+<ul>
+<li>Explicitly show the relationship between fractions and decimals</li>
+<li>Use double number lines to compare fractions and decimals</li>
+<li>Demonstrate conversion between fractions and decimals</li>
+</ul>
+</section>
+<section id="key-teaching-strategies" class="level3">
+<h3 class="anchored" data-anchor-id="key-teaching-strategies">Key Teaching Strategies</h3>
+<ul>
+<li>Use manipulatives and visual models extensively</li>
+<li>Encourage students to make connections between concepts</li>
+<li>Provide ample opportunities for practice and discussion</li>
+<li>Address common misconceptions (e.g., longer decimal doesn’t always mean larger number)</li>
+<li>Integrate real-world applications and problem-solving</li>
+</ul>
+</section>
+<section id="progression-1" class="level3">
+<h3 class="anchored" data-anchor-id="progression-1">Progression</h3>
+<ol type="1">
+<li>Teach fractions before decimals to build a strong conceptual foundation</li>
+<li>Introduce decimals as an extension of the place value system</li>
+<li>Show how decimals relate to fractions, especially tenths and hundredths</li>
+<li>Gradually increase complexity, moving to operations with fractions and decimals</li>
+</ol>
+</section>
+</section>
+<section id="exercises" class="level2">
+<h2 class="anchored" data-anchor-id="exercises">Exercises</h2>
+<ol type="1">
+<li><p>Use Polya’s problem-solving approach to solve: A rectangle’s length is twice its width. If its perimeter is 30 cm, what are its dimensions?</p></li>
+<li><p>How might we introduce struggling learners to the concept of sets and numbers?</p></li>
+<li><p>Given sets A = {1, 2, 3, 4} and B = {3, 4, 5, 6}, find A ∪ B and A ∩ B.</p></li>
+</ol>
 
 
 </section>
@@ -938,13 +1158,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./who.html" class="pagination-link" aria-label="Who is in the site photo?">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Who is in the site photo?</span>
+      <a href="../modules/module01.html" class="pagination-link" aria-label="Module 1">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Module 1</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./assignments.html" class="pagination-link" aria-label="Assignments">
-        <span class="nav-page-text">Assignments</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../modules/module03.html" class="pagination-link" aria-label="Module 3">
+        <span class="nav-page-text">Module 3</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
