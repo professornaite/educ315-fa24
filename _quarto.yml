@@ -54,6 +54,12 @@ website:
           text: Module 3
         - href: modules/module04.qmd
           text: Module 4
+    - section: "Assignment rubrics"
+      contents:
+        - href: historical-figure.qmd
+          text: Historical STEM figure
+        - href: math-lesson.qmd
+          text: Mathematics Lesson
     - section: "Field experience"
       contents:
         - href: field/expectations.qmd

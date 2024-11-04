@@ -32,8 +32,6 @@ Please see the detailed syllabus on our Canvas for a more ordered list.
 +----------------------------------+------------------------------------------------------+--------------+
 |                                  | Mathematics lesson (complete)                        | Thu Nov 14   |
 +----------------------------------+------------------------------------------------------+--------------+
-|                                  | Academic communities map                             | Mon Nov 25   |
-+----------------------------------+------------------------------------------------------+--------------+
 |                                  | Assessment plan                                      | Thu Dec 5    |
 +----------------------------------+------------------------------------------------------+--------------+
 | **Quizzes** (in class)           |                                                      |              |
@@ -54,13 +52,9 @@ Please see the detailed syllabus on our Canvas for a more ordered list.
 |                                  |                                                      |              |
 |                                  | (commutative, associative, distributive, identity)   |              |
 +----------------------------------+------------------------------------------------------+--------------+
-|                                  | Quiz 5: Space and geometry                           | Wed Nov 6    |
+|                                  | Quiz 5: Lesson planning                              | Mon Nov 18   |
 |                                  |                                                      |              |
-|                                  | (objects, shape, representations)                    |              |
-+----------------------------------+------------------------------------------------------+--------------+
-|                                  | Quiz 6: Change and rates                             | Wed Nov 20   |
-|                                  |                                                      |              |
-|                                  | (patterns and sequences, functions)                  |              |
+|                                  | (planning and organization of a lesson)              |              |
 +----------------------------------+------------------------------------------------------+--------------+
 | **Field and excursions**         |                                                      |              |
 +----------------------------------+------------------------------------------------------+--------------+
