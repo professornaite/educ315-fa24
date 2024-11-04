@@ -58,7 +58,7 @@ website:
       contents:
         - href: historical-figure.qmd
           text: Historical STEM figure
-        - href: math-lesson.qmd
+        - href: math-lesson1.qmd
           text: Mathematics Lesson
     - section: "Field experience"
       contents:
