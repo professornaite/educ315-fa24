@@ -58,7 +58,7 @@ website:
           text: Module 5
     - section: "Assignment rubrics"
       contents:
-        - href: modules/historical-figure.qmd
+        - href: modules/historical.qmd
           text: Historical STEM figure
         - href: modules/math-lesson1.qmd
           text: Mathematics Lesson
