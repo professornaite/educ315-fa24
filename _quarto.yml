@@ -70,10 +70,10 @@ website:
           text: Weekly schedules
     - section: "Standards and curricula"
       contents: 
-        - href: standards/osse.qmd
-          text: Office of the State Superintendent of Education (OSSE)
         - href: standards/common.qmd
           text: Common Core State Standards - Mathematics
+        - href: standards/osse.qmd
+          text: Office of the State Superintendent of Education (OSSE)
         - href: standards/umoja.qmd
           text: Umoja Curriculum
         - href: standards/freedom.qmd
