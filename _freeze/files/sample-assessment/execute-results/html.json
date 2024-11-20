@@ -1,0 +1,17 @@
+{
+  "hash": "a7e9d4241add2a17be6da020b2ea8009",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Sample Math Lesson Assessment Rubric\"\nauthor: \"Teacher's Name\"\ndate: \"2024-11-20\"\noutput: html_document\n---\n\n\n\n\n## Rubric for 5th Grade Fractions Assessment\n\n| Category | Exceeds Expectations (4) | Meets Expectations (3) | Approaching Expectations (2) | Below Expectations (1) |\n|----------|--------------------------|------------------------|------------------------------|------------------------|\n| **Conceptual Understanding** | Demonstrates thorough understanding of fractions, including equivalence and comparison. Can explain concepts clearly using mathematical terminology. | Shows solid understanding of fractions. Can explain most concepts using some mathematical terms. | Demonstrates basic understanding of fractions. Explanations may lack clarity or use of mathematical terms. | Shows limited understanding of fractions. Unable to explain concepts clearly. |\n| **Problem Solving** | Consistently applies appropriate strategies to solve complex fraction problems. Shows work clearly and logically. | Usually applies appropriate strategies to solve fraction problems. Work is mostly clear and logical. | Sometimes applies appropriate strategies. Work may be unclear or illogical at times. | Rarely applies appropriate strategies. Work is unclear or missing. |\n| **Computational Accuracy** | Calculations with fractions are consistently accurate, including in multi-step problems. | Calculations with fractions are mostly accurate. May have minor errors in multi-step problems. | Calculations with fractions are sometimes accurate. Makes errors in basic operations. | Calculations with fractions are often inaccurate. Makes significant errors in basic operations. |\n| **Representation** | Effectively uses multiple representations (diagrams, number lines, symbols) to illustrate fraction concepts and solutions. | Uses representations appropriately to illustrate fraction concepts and solutions. | Sometimes uses representations, but may be incomplete or partially incorrect. | Rarely uses representations or uses them incorrectly. |\n| **Communication** | Clearly communicates mathematical thinking using precise language and notation. Explanations are thorough and logical. | Communicates mathematical thinking adequately. Uses some mathematical language and notation correctly. | Communication of mathematical thinking is basic. Limited use of mathematical language and notation. | Communication of mathematical thinking is unclear or missing. Limited or incorrect use of mathematical language. |\n\n## Scoring Guide\n\n- **Total Points Possible**: 20\n- **Grading Scale**:\n  - A: 18-20 points\n  - B: 16-17 points\n  - C: 14-15 points\n  - D: 12-13 points\n  - F: Below 12 points\n",
+    "supporting": [
+      "sample-assessment_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
