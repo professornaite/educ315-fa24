@@ -40,8 +40,8 @@ The pages on this site outline the technical components of **EDUC 315: Principle
 |  | Nov 6 | 5 | Assessments |
 | 13 | Nov 11 |  | University closed: Veterans Day |
 |  | Nov 13 |  | Lesson presentations |
-| 14 | Nov 18 |  | Lesson presentations |
-|  | Nov 20 | 5 | Lesson assessment updates (no class) |
+| 14 | Nov 18 |  | assessment updates (no class) |
+|  | Nov 20 | 5 | Lesson presentations |
 | 15 | Nov 25 |  | "Classgiving" Potluck |
 |  | Nov 27 |  | No class; University closes at noon |
 :::
