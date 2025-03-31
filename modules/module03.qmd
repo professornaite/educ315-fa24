@@ -4,6 +4,10 @@ subtitle: "EDUC 315 - Howard University"
 author: "Nathan Alexander, PhD"
 institute: "School of Education"
 format: 
+  pdf: 
+    toc: true
+    number-sections: true
+    colorlinks: true
   html: default
   revealjs:
     output-file: module03-slides.html
